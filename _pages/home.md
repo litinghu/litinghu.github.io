@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Our lab conducts experimental computer systems research in the areas of stream processing systems, cloud and edge computing, distributed systems, machine learning, and systems virtualization. Examples include stream processing systems (with Spark Streaming, Storm, Flink), identifying threats (e.g., fake news, rumors, social bots) in online social networks, developing machine learning techniques for systems, container as a service (with Docker and Kubernetes), and resource management in large-scale data centers (with Xen and KVM).
+Our lab aims to train students towards becoming first-class system researchers and system builders. We are looking for passionate new Ph.D. students, Postdocs, and master students to join the team! See details.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
