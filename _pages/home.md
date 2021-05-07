@@ -61,9 +61,9 @@ We are thankful to the following federal agencies and Institutes for supporting 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/akamai.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/citrix.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/citrix.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.svg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/fiu.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lyrasis.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lyrasis.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 100px">
 </figure>
