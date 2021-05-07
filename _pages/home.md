@@ -53,7 +53,7 @@ permalink: /
   </a>
 </div>
 
-Our lab conducts experimental computer systems research in the areas of stream processing systems, cloud and edge computing, distributed systems, machine learning, and systems virtualization. Examples include stream processing systems (with Spark Streaming, Storm, Flink), identifying threats (e.g., fake news, rumors, social bots) in online social networks, developing machine learning techniques for systems, container as a service (with Docker and Kubernetes), and resource management in large-scale data centers (with Xen and KVM).
+Our lab conducts <span style="color:red">experimental computer systems research</span> in the areas of <span style="color:red">stream processing systems</span>, <span style="color:red">cloud and edge computing</span>, <span style="color:red">distributed systems</span>, <span style="color:red">machine learning</span>, and <span style="color:red">systems virtualization</span>. Examples include stream processing systems (with Spark Streaming, Storm, Flink), identifying threats (e.g., fake news, rumors, social bots) in online social networks, developing machine learning techniques for systems, container as a service (with Docker and Kubernetes), and resource management in large-scale data centers (with Xen and KVM).
 
 Our lab aims to train students towards becoming first-class system researchers and system builders. **We are looking for passionate new Ph.D. students, Postdocs, and master students to join the team!** See details.
 
