@@ -8,11 +8,11 @@ permalink: /research/
 
 # Research Interests
 
-- Stream Processing Systems: SR3, FP4S, Governor, ELF, Project Hoover
-- Spam Detection in Online Social Networks: SpamHunter, Oases
-- Developing Machine Learning Techniques for Systems: Max Orientation Coverage, dpSmart, XPlacer
-- Container as a Service in the Cloud: Docman
-- Resource Management in Large-Scale Data Centers: RBay, v-Bundle, Net-Cohort, Look Who’s Talking, Monalytics, Live Migration of VMs, Magnet
+- <span style="color:#DC143C">**Stream Processing Systems:**</span> SR3, FP4S, Governor, ELF, Project Hoover
+- <span style="color:#DC143C">**Spam Detection in Online Social Networks:**</span> SpamHunter, Oases
+- <span style="color:#DC143C">**Developing Machine Learning Techniques for Systems:**</span> Max Orientation Coverage, dpSmart, XPlacer
+- <span style="color:#DC143C">**Container as a Service in the Cloud:**</span> Docman
+- <span style="color:#DC143C">**Resource Management in Large-Scale Data Centers:**</span> RBay, v-Bundle, Net-Cohort, Look Who’s Talking, Monalytics, Live Migration of VMs, Magnet
 
 # Research Projects
 
