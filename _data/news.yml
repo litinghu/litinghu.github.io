@@ -12,7 +12,7 @@
   headline: "Our work on failure recovery mechanism for stream processing systems got accepted to ACM/IFIP Middleware 2020."
 
 - date: "August 2020:"
-  headline: "My research on big data systems is featured on <a href="https://news.fiu.edu/2020/computing-professor-designs-stream-processing-system-for-iot-applications">FIU News</a>."
+  headline: "My research on big data systems is featured on <a href='https://news.fiu.edu/2020/computing-professor-designs-stream-processing-system-for-iot-applications'>FIU News</a>."
 
 - date: "June 2020:"
   headline: "<b>Dr. Liting Hu am excited to announce that I received the NSF CAREER Award from the Computer Systems Research program in the Division of Computer and Network Systems! Thanks for NSF’s tremendous support!</b>"
@@ -21,19 +21,19 @@
   headline: "Our lab's Ph.D. student Hailu Xu graduates and joins California State University Long Beach as a tenure-track assistant professor. Congratulations, Hailu!"
 
 - date: "February 2020:"
-  headline: "A lead-PI grant is awarded from <a href="https://cyberflorida.org/programs/seed/">Cyber Florida Collaborative Seed Award Program</a> to support our research on spam detection in online social networks ($75K)."
+  headline: "A lead-PI grant is awarded from <a href='https://cyberflorida.org/programs/seed/'>Cyber Florida Collaborative Seed Award Program</a> to support our research on spam detection in online social networks ($75K)."
 
 - date: "December 2019:"
-  headline: "Our work on stateful stream processing systems got accepted to <a href="http://www.ipdps.org/ipdps2020/2020-call-for-papers.html">IPDPS 2020</a>."
+  headline: "Our work on stateful stream processing systems got accepted to <a href='http://www.ipdps.org/ipdps2020/2020-call-for-papers.html'>IPDPS 2020</a>."
 
 - date: "July 2019:"
-  headline: "A lead-PI grant is awarded from <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919126&HistoricalAwards=false">NSF SPX</a> to support our research on stateful stream processing ($550K). Thank you NSF!"
+  headline: "A lead-PI grant is awarded from <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919126&HistoricalAwards=false'>NSF SPX</a> to support our research on stateful stream processing ($550K). Thank you NSF!"
 
 - date: "June 2019:"
   headline: "A co-PI grant is awarded from LYRASIS to support my research on AI ($25K)."
 
 - date: "May 2019:"
-  headline: "Our work on spam detection systems received the <a href="http://icws.org/2019/awards.html">Best Student Paper Award<a> at Cloud 2019. Congratulations, Hailu!."
+  headline: "Our work on spam detection systems received the <a href='http://icws.org/2019/awards.html'>Best Student Paper Award<a> at Cloud 2019. Congratulations, Hailu!."
 
 - date: "April 2018:"
   headline: "We have two research papers accepted to Cloud 2018. Congratulations, Hailu and Pinchao!"
