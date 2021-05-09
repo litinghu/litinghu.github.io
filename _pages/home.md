@@ -61,8 +61,8 @@ We are thankful to the following federal agencies and Institutes for supporting 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vt.jpeg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.svg" style="width: 107px; margin-left: 1px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 120px; margin-left: 1px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.svg" style="width: 107px; margin-left: 2px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cf.png" style="width: 140px; margin-left: 6px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lyrasis.png" style="width: 112px; margin-left: 3px">
 </figure>
