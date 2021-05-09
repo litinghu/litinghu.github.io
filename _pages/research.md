@@ -30,9 +30,8 @@ permalink: /research/
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left; margin-right: 20px" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p>{{ publi.description }} <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><b>Selected Publications: </b>{{ publi.authors }}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>

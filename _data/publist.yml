@@ -1,10 +1,10 @@
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Scalable and Adaptive Edge Stream Processing"
+  image: edge.png
+  description: Internet-of-Things (IoT) applications such as self-driving cars, augmented reality, interactive gaming, and event monitoring have a tremendous potential to improve our lives. These applications generate a large influx of sensor data at massive scales. Under many time-critical scenarios, these massive data streams must be processed in a very short time to derive actionable intelligence. This CAREER project aims to support time-critical IoT applications by applying the stream processing paradigm to the Edge computing architecture in the dynamic, heterogeneous Edge environment. As an integral part of its research program, this CAREER project involves K-12, undergraduate and graduate level education in partnership with the local Public School system.
+  authors: USENIX ATC’21
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153
+    display:  Read More
   highlight: 1
   news2:
 
