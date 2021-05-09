@@ -8,11 +8,11 @@ permalink: /research/
 
 # Research Interests
 
-- <span style="color:#DC143C">**Stream Processing Systems:**</span> SR3, FP4S, Governor, ELF, Project Hoover
-- <span style="color:#DC143C">**Spam Detection in Online Social Networks:**</span> SpamHunter, Oases
-- <span style="color:#DC143C">**Developing Machine Learning Techniques for Systems:**</span> Max Orientation Coverage, dpSmart, XPlacer
-- <span style="color:#DC143C">**Container as a Service in the Cloud:**</span> Docman
-- <span style="color:#DC143C">**Resource Management in Large-Scale Data Centers:**</span> RBay, v-Bundle, Net-Cohort, Look Who’s Talking, Monalytics, Live Migration of VMs, Magnet
+- <span style="color:#DC143C">**Stream Processing Systems:**</span> [SR3](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf), [FP4S](https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf), [Governor](https://people.cs.vt.edu/~litinghu/doc/governor.pdf), [ELF](https://people.cs.vt.edu/~litinghu/doc/elf.pdf), [Project Hoover](https://people.cs.vt.edu/~litinghu/doc/projecthoover.pdf)
+- <span style="color:#DC143C">**Spam Detection in Online Social Networks:**</span> [SpamHunter](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf), [Oases](https://people.cs.vt.edu/~litinghu/doc/oases.pdf)
+- <span style="color:#DC143C">**Developing Machine Learning Techniques for Systems:**</span> [Max Orientation Coverage](https://people.cs.vt.edu/~litinghu/doc/iros.pdf), [dpSmart](https://people.cs.vt.edu/~litinghu/doc/dpSmart.pdf), [XPlacer](https://people.cs.vt.edu/~litinghu/doc/mchpc.pdf)
+- <span style="color:#DC143C">**Container as a Service in the Cloud:**</span> [Docman](https://people.cs.vt.edu/~litinghu/doc/Docman.pdf)
+- <span style="color:#DC143C">**Resource Management in Large-Scale Data Centers:**</span> [RBay](https://people.cs.vt.edu/~litinghu/doc/rbay.pdf), [v-Bundle](https://people.cs.vt.edu/~litinghu/doc/vbundle.pdf), [Net-Cohort](https://people.cs.vt.edu/~litinghu/doc/netcohort.pdf), [Look Who’s Talking](https://people.cs.vt.edu/~litinghu/doc/look.pdf), [Monalytics](https://people.cs.vt.edu/~litinghu/doc/monalytics.pdf), [Live Migration of VMs](https://people.cs.vt.edu/~litinghu/doc/livemigration.pdf), [Magnet](https://people.cs.vt.edu/~litinghu/doc/magnet.pdf)
 
 # Research Projects
 
