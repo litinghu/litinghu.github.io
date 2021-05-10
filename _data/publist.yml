@@ -8,10 +8,10 @@
   highlight: 1
   news2:
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: TiNHigh.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "NG4S: A Next-generation Geo-distributed Scalable Stateful Stream Processing System"
+  image: ng4s.png
+  description: Our society increasingly relies on applications that process streaming data across geo-distributed sites, such as making business decisions from marketing data, identifying spam campaigns in social network streams, and analyzing genome datasets in different labs and countries to track the sources of potential epidemics. Existing systems are mainly designed for stateless stream processing in intra-datacenter settings and do not scale well for running stream applications that contain large distributed states. The goal of this project is to build a next-generation geo-distributed scalable stateful stream processing system that significantly improves the scalability of stream processing systems.
+  authors: Middleware’20, IPDPS’20, ICAC’18, USENIX ATC’14
   link:
     url: https://arxiv.org/abs/2101.08535
     display: arXiv:2101.08535 (2021)
