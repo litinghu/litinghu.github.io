@@ -17,11 +17,11 @@
     display: Read More
   highlight: 1
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "RumorHunt: A Next-Generation Online Scalable Streaming System for Early Rumor Detection"
+  image: rumor.png
+  description: The broad success of online social networks (OSNs) has created fertile soil for the emergence and fast spread of rumors. Rumors are damaging as they cause public panic and social unrest. There is an urgent need to quickly detect false rumors (e.g., fake news) circulated on social online networks early in its propagation before it reaches a broad audience. The goal of this project is to develop a next-generation online scalable streaming system for early rumor detection in OSNs.
+  authors: Cloud’19 Best student paper, Cloud’18
   link:
     url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
+    display:  Read More
   highlight: 1
