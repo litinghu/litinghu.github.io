@@ -11,7 +11,7 @@
 - title: "NG4S: A Next-generation Geo-distributed Scalable Stateful Stream Processing System"
   image: ng4s.png
   description: Our society increasingly relies on applications that process streaming data across geo-distributed sites, such as making business decisions from marketing data, identifying spam campaigns in social network streams, and analyzing genome datasets in different labs and countries to track the sources of potential epidemics. Existing systems are mainly designed for stateless stream processing in intra-datacenter settings and do not scale well for running stream applications that contain large distributed states. The goal of this project is to build a next-generation geo-distributed scalable stateful stream processing system that significantly improves the scalability of stream processing systems.
-  authors: Middleware’20, IPDPS’20, ICAC’18, USENIX ATC’14
+  authors: <a href="https://people.cs.vt.edu/~litinghu/doc/sr3.pdf">Middleware’20</a>, IPDPS’20, ICAC’18, USENIX ATC’14
   link:
     url: https://arxiv.org/abs/2101.08535
     display: Read More
