@@ -18,7 +18,7 @@
   highlight: 1
 
 - title: "RumorHunt: A Next-Generation Online Scalable Streaming System for Early Rumor Detection"
-  image: rumor.png
+  image: rumor1.png
   description: The broad success of online social networks (OSNs) has created fertile soil for the emergence and fast spread of rumors. Rumors are damaging as they cause public panic and social unrest. There is an urgent need to quickly detect false rumors (e.g., fake news) circulated on social online networks early in its propagation before it reaches a broad audience. The goal of this project is to develop a next-generation online scalable streaming system for early rumor detection in OSNs.
   authors: <a href="https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf">Cloud’19 Best student paper</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/Oases.pdf">Cloud’18</a>
   link:
