@@ -10,7 +10,7 @@
   news2:
 
 - title: "NG4S: A Next-generation Geo-distributed Scalable Stateful Stream Processing System"
-  wellheight: 310
+  wellheight: 320
   image: ng4s.png
   description: Our society increasingly relies on applications that process streaming data across geo-distributed sites, such as making business decisions from marketing data, identifying spam campaigns in social network streams, and analyzing genome datasets in different labs and countries to track the sources of potential epidemics. Existing systems are mainly designed for stateless stream processing in intra-datacenter settings and do not scale well for running stream applications that contain large distributed states. This project breaks the traditional abstractions of a centralized architecture and hashtable-based stateless operators, redefining them with a new decentralized architecture and new memory-efficient stateful operators, which enables novel approaches to improve overall system performance and scalability. 
   authors: <a href="https://people.cs.vt.edu/~litinghu/doc/sr3.pdf">Middleware’20</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf">IPDPS’20</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/rbay.pdf">ICAC’18</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/elf.pdf">USENIX ATC’14</a>
@@ -20,7 +20,7 @@
   highlight: 1
 
 - title: "RumorHunt: A Next-Generation Online Scalable Streaming System for Early Rumor Detection"
-  wellheight: 280
+  wellheight: 255
   image: rumor1.png
   description: The broad success of online social networks (OSNs) has created fertile soil for the emergence and fast spread of rumors. Rumors are damaging as they cause public panic and social unrest. There is an urgent need to quickly detect false rumors (e.g., fake news) circulated on social online networks early in its propagation before it reaches a broad audience. The goal of this project is to develop a next-generation online scalable streaming system for early rumor detection in OSNs.
   authors: <a href="https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf">Cloud’19 Best student paper</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/Oases.pdf">Cloud’18</a>
