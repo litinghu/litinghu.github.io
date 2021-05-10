@@ -57,7 +57,7 @@ Our lab conducts <span style="color:#DC143C">**experimental computer systems res
 
 Our lab aims to train students towards becoming first-class system researchers and system builders. **We are looking for passionate new Ph.D. students, Postdocs, and master students to join the team!** See details.
 
-We are thankful to the following federal agencies and Institutes for supporting our research efforts:
+We are grateful to the following federal agencies and Institutes for supporting our research efforts.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vt.jpeg" style="width: 110px">
