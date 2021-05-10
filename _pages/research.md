@@ -27,7 +27,7 @@ permalink: /research/
 {% endif %}
 
 <div class="col-sm-12 clearfix">
- <div class="well"  style="height: 360px;">
+ <div class="well"  style="height: 330px;">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="35%" style="float: left; margin-right: 20px;" height="1100" />
   <p>{{ publi.description }} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
