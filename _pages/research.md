@@ -27,7 +27,14 @@ permalink: /research/
 {% endif %}
 
 <div class="col-sm-12 clearfix">
- <div class="well">
+<div class="well" style="height: 360px;">
+      <pubtit>Scalable and Adaptive Edge Stream Processing</pubtit>
+      <p><img src="/images/pubpic/edge.png" class="img-responsive" width="40%" style="float: left; margin-right: 20px;" height="1000"></p>
+      <p>Internet-of-Things (IoT) applications such as self-driving cars, augmented reality, interactive gaming, and event monitoring have a tremendous potential to improve our lives. These applications generate a large influx of sensor data at massive scales. Under many time-critical scenarios, these massive data streams must be processed in a very short time to derive actionable intelligence. This CAREER project aims to support time-critical IoT applications by applying the stream processing paradigm to the Edge computing architecture in the dynamic, heterogeneous Edge environment. As an integral part of its research program, this CAREER project involves K-12, undergraduate and graduate level education in partnership with the local Public School system. <strong><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153">Read More</a></strong></p>
+      <p><b>Selected Publications: </b>USENIX ATC’21</p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left; margin-right: 20px;" height="1100" />
   <p>{{ publi.description }} <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
