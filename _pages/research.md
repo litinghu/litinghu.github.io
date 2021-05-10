@@ -8,11 +8,11 @@ permalink: /research/
 
 # Research Interests
 
-- <span style="color:#DC143C">**Stream Processing Systems:**</span> [SR3](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf), [FP4S](https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf), [Governor](https://people.cs.vt.edu/~litinghu/doc/governor.pdf), [ELF](https://people.cs.vt.edu/~litinghu/doc/elf.pdf), [Project Hoover](https://people.cs.vt.edu/~litinghu/doc/projecthoover.pdf)
-- <span style="color:#DC143C">**Spam Detection in Online Social Networks:**</span> [SpamHunter](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf), [Oases](https://people.cs.vt.edu/~litinghu/doc/oases.pdf)
-- <span style="color:#DC143C">**Developing Machine Learning Techniques for Systems:**</span> [Max Orientation Coverage](https://people.cs.vt.edu/~litinghu/doc/iros.pdf), [dpSmart](https://people.cs.vt.edu/~litinghu/doc/dpSmart.pdf), [XPlacer](https://people.cs.vt.edu/~litinghu/doc/mchpc.pdf)
-- <span style="color:#DC143C">**Container as a Service in the Cloud:**</span> [Docman](https://people.cs.vt.edu/~litinghu/doc/Docman.pdf)
-- <span style="color:#DC143C">**Resource Management in Large-Scale Data Centers:**</span> [RBay](https://people.cs.vt.edu/~litinghu/doc/rbay.pdf), [v-Bundle](https://people.cs.vt.edu/~litinghu/doc/vbundle.pdf), [Net-Cohort](https://people.cs.vt.edu/~litinghu/doc/netcohort.pdf), [Look Who’s Talking](https://people.cs.vt.edu/~litinghu/doc/look.pdf), [Monalytics](https://people.cs.vt.edu/~litinghu/doc/monalytics.pdf), [Live Migration of VMs](https://people.cs.vt.edu/~litinghu/doc/livemigration.pdf), [Magnet](https://people.cs.vt.edu/~litinghu/doc/magnet.pdf)
+- <span>**Stream Processing Systems:**</span> [SR3](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf), [FP4S](https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf), [Governor](https://people.cs.vt.edu/~litinghu/doc/governor.pdf), [ELF](https://people.cs.vt.edu/~litinghu/doc/elf.pdf), [Project Hoover](https://people.cs.vt.edu/~litinghu/doc/projecthoover.pdf)
+- <span>**Spam Detection in Online Social Networks:**</span> [SpamHunter](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf), [Oases](https://people.cs.vt.edu/~litinghu/doc/oases.pdf)
+- <span>**Developing Machine Learning Techniques for Systems:**</span> [Max Orientation Coverage](https://people.cs.vt.edu/~litinghu/doc/iros.pdf), [dpSmart](https://people.cs.vt.edu/~litinghu/doc/dpSmart.pdf), [XPlacer](https://people.cs.vt.edu/~litinghu/doc/mchpc.pdf)
+- <span>**Container as a Service in the Cloud:**</span> [Docman](https://people.cs.vt.edu/~litinghu/doc/Docman.pdf)
+- <span>**Resource Management in Large-Scale Data Centers:**</span> [RBay](https://people.cs.vt.edu/~litinghu/doc/rbay.pdf), [v-Bundle](https://people.cs.vt.edu/~litinghu/doc/vbundle.pdf), [Net-Cohort](https://people.cs.vt.edu/~litinghu/doc/netcohort.pdf), [Look Who’s Talking](https://people.cs.vt.edu/~litinghu/doc/look.pdf), [Monalytics](https://people.cs.vt.edu/~litinghu/doc/monalytics.pdf), [Live Migration of VMs](https://people.cs.vt.edu/~litinghu/doc/livemigration.pdf), [Magnet](https://people.cs.vt.edu/~litinghu/doc/magnet.pdf)
 
 # Research Projects
 
@@ -28,7 +28,7 @@ permalink: /research/
 
 <div class="col-sm-12 clearfix">
  <div class="well"  style="height: 360px;">
-  <pubtit style="color:#DC143C">{{ publi.title }}</pubtit>
+  <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left; margin-right: 20px;" height="1100" />
   <p>{{ publi.description }} <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p><b>Selected Publications: </b>{{ publi.authors }}</p>
