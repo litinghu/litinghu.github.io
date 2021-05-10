@@ -29,7 +29,7 @@ permalink: /research/
 <div class="col-sm-12 clearfix">
  <div class="well"  style="height: {{publi.wellheight}}px;">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="31%" style="float: left; margin-right: 30px; box-shadow: 1px 1px 1px rgba(0,0,0,.5);" height="1100" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="31%" style="float: left; margin-right: 30px; box-shadow: 2px 2px 2px rgba(0,0,0,.5);" height="1100" />
   <p>{{ publi.description }} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
   <p><b>Selected Publications: </b>{{ publi.authors }}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
