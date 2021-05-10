@@ -3,7 +3,7 @@
   description: Internet-of-Things (IoT) applications such as self-driving cars, augmented reality, interactive gaming, and event monitoring have a tremendous potential to improve our lives. These applications generate a large influx of sensor data at massive scales. Under many time-critical scenarios, these massive data streams must be processed in a very short time to derive actionable intelligence. This CAREER project aims to support time-critical IoT applications by applying the stream processing paradigm to the Edge computing architecture in the dynamic, heterogeneous Edge environment. As an integral part of its research program, this CAREER project involves K-12, undergraduate and graduate level education in partnership with the local Public School system.
   authors: USENIX ATC’21
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
+    url: https://litinghu.github.io/research/
     display:  Read More
   highlight: 1
   news2:
@@ -11,17 +11,17 @@
 - title: "NG4S: A Next-generation Geo-distributed Scalable Stateful Stream Processing System"
   image: ng4s.png
   description: Our society increasingly relies on applications that process streaming data across geo-distributed sites, such as making business decisions from marketing data, identifying spam campaigns in social network streams, and analyzing genome datasets in different labs and countries to track the sources of potential epidemics. Existing systems are mainly designed for stateless stream processing in intra-datacenter settings and do not scale well for running stream applications that contain large distributed states. The goal of this project is to build a next-generation geo-distributed scalable stateful stream processing system that significantly improves the scalability of stream processing systems.
-  authors: <a href="https://people.cs.vt.edu/~litinghu/doc/sr3.pdf">Middleware’20</a>, IPDPS’20, ICAC’18, USENIX ATC’14
+  authors: <a href="https://people.cs.vt.edu/~litinghu/doc/sr3.pdf">Middleware’20</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf">IPDPS’20</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/rbay.pdf">ICAC’18</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/elf.pdf">USENIX ATC’14</a>
   link:
-    url: https://arxiv.org/abs/2101.08535
+    url: https://litinghu.github.io/research/
     display: Read More
   highlight: 1
 
 - title: "RumorHunt: A Next-Generation Online Scalable Streaming System for Early Rumor Detection"
   image: rumor.png
   description: The broad success of online social networks (OSNs) has created fertile soil for the emergence and fast spread of rumors. Rumors are damaging as they cause public panic and social unrest. There is an urgent need to quickly detect false rumors (e.g., fake news) circulated on social online networks early in its propagation before it reaches a broad audience. The goal of this project is to develop a next-generation online scalable streaming system for early rumor detection in OSNs.
-  authors: Cloud’19 Best student paper, Cloud’18
+  authors: <a href="https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf">Cloud’19 Best student paper</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/Oases.pdf">Cloud’18</a>
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
+    url: https://litinghu.github.io/research/
     display:  Read More
   highlight: 1
