@@ -17,7 +17,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="16%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}
   <br>{{ member.website }} </i>
@@ -62,7 +62,7 @@ permalink: /team/
 {% for member in site.data.students %}
 <div class="row">
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="16%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -100,7 +100,7 @@ permalink: /team/
 {% for member in site.data.alumni_members %}
 <div class="row">
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="16%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <ul style="overflow: hidden">
     <li>{{ member.duration }}</li>
