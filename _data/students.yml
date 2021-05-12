@@ -8,12 +8,13 @@
 #  education3:
 #  education4:
 
-- name: Rebecca Gharibaan
-  photo: rock.jpg
-  info: Master student
-  email: R.Gharibaan@student.tudelft.nl
-  number_educ: 0
-  education1:
+- name: Boyuan Guan (2018 - )
+  photo: BoyuanGuan.png
+  info:
+  email:
+  number_educ: 2
+  education1: M.S. in Civil Engineer Transportation Engineering, Florida International University
+  education2: B.S. in Software Engineering, Beihang University
 
 - name: Rémi Claessen
   photo: rock.jpg
