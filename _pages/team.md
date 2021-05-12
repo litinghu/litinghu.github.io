@@ -95,7 +95,7 @@ permalink: /team/
 {% endfor %}
 
 
-## Alumni
+## Undergraduate students (Primary Advisor)
 
 {% for member in site.data.alumni_members %}
 <div class="row">
