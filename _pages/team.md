@@ -91,9 +91,7 @@ permalink: /team/
   </ul>
 </div>
 </div>
-
-</div>
-
+{% endfor %}
 
 
 ## Alumni
