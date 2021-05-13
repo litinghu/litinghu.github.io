@@ -112,7 +112,7 @@
   conf: USENIX ATC\'14
   title: "ELF: Efficient Lightweight Fast Stream Processing at Scale"
   link: https://people.cs.vt.edu/~litinghu/doc/elf.pdf
-  author: **Liting Hu**, Karsten Schwan, Hrishikesh Amur, Xin Chen
+  author: "**Liting Hu**, Karsten Schwan, Hrishikesh Amur, Xin Chen"
   conf_name: Proceedings of the 2014 USENIX Annual Technical Conference
   conf_short: USENIX ATC
   conf_date: June 2014
@@ -122,7 +122,7 @@
   conf: ICAC\'12
   title: "Net-Cohort: Detecting and Managing VM Ensembles in Data Center Systems"
   link: https://people.cs.vt.edu/~litinghu/doc/netcohort.pdf
-  author: **Liting Hu**, Karsten Schwan, Ajay Gulati, Junjie Zhang, Chengwei Wang
+  author: "**Liting Hu**, Karsten Schwan, Ajay Gulati, Junjie Zhang, Chengwei Wang"
   conf_name: Proceedings of the 9th ACM International Conference on Autonomic Computing
   conf_short: ICAC
   conf_date: September 2012
@@ -132,7 +132,7 @@
   conf: ICDCS\'12
   title: "v-Bundle: Flexible Group Resource Offerings in Clouds"
   link: https://people.cs.vt.edu/~litinghu/doc/vbundle.pdf
-  author: **Liting Hu**, Kyung Dong Ryu, Dilma Da Silva, Karsten Schwan
+  author: "**Liting Hu**, Kyung Dong Ryu, Dilma Da Silva, Karsten Schwan"
   conf_name: Proceedings of the 32nd IEEE International Conference on Distributed Computing Systems
   conf_short: ICDCS
   conf_date: June 2012
@@ -162,7 +162,7 @@
   conf: Cluster\'08
   title: "Magnet: A Novel Scheduling Policy for Power Reduction in Cluster with Virtual Machines"
   link: https://people.cs.vt.edu/~litinghu/doc/magnet.pdf
-  author: **Liting Hu**, Hai Jin, Xiaofei Liao, Xianjie Xiong, Haikun Liu
+  author: "**Liting Hu**, Hai Jin, Xiaofei Liao, Xianjie Xiong, Haikun Liu"
   conf_name: Proceedings of the 2008 IEEE International Conference on Cluster Computing
   conf_short: Cluster
   conf_date: September 2008
