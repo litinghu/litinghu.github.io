@@ -19,7 +19,7 @@ permalink: /publications/
   <p>
   <b>[{{ publi.conf }}]</b> <a href="{{ publi.link }}">{{ publi.title }}</a><br />
   {{ publi.author }}<br />
-  {{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>), {{ publi.conf_date }}
+  In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}
   {% if publi.rate != "" %}
   Acceptance Rate: {{ publi.rate }}
   {% endif %}

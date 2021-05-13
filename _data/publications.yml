@@ -3,7 +3,7 @@
   title: "DART: A Scalable and Adaptive Edge Stream Processing Engine"
   link: 
   author: Pinchao Liu*, Dilma Da Silva, Liting Hu
-  conf_name: in Proceedings of the 2021 USENIX Annual Technical Conference
+  conf_name: Proceedings of the 2021 USENIX Annual Technical Conference
   conf_short: USENIX ATC'21
   conf_date: July 2021
   rate: 64/341 = 18.8%
