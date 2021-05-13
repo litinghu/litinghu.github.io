@@ -12,9 +12,10 @@
   photo: BoyuanGuan.png
   info:
   email:
-  number_educ: 2
-  education1: M.S. in Civil Engineer Transportation Engineering, Florida International University
-  education2: B.S. in Software Engineering, Beihang University
+  number_educ: 3
+  education1: "Ph.D. candidate in Computer Science, Florida International University (Advisor: Liting Hu)"
+  education2: M.S. in Civil Engineer Transportation Engineering, Florida International University
+  education3: B.S. in Software Engineering, Beihang University
 
 - name: Pinchao Liu (Ph.D. 2021)
   photo: pinchao.png

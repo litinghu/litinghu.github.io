@@ -104,6 +104,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <ul style="overflow: hidden">
     <li>{{ member.duration }}</li>
+    <li> {{ member.education1 }} </li>
   </ul>
 </div>
 </div>
