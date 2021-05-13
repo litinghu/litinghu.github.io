@@ -11,7 +11,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-<b>Students advised by Dr.Liting Hu are identified by</b> "*".
+<b>Students advised by Dr.Liting Hu are identified by \"*\".</b> 
 
 {% for publi in site.data.publications %}
   {% if publi.type == "main" %}
