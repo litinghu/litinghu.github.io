@@ -49,7 +49,7 @@
   rate: 0
 
 - type: main
-  conf: 
+  conf: Cloud'19
   title: "Exploiting the Spam Correlations in Scalable Online Social Spam Detection" 
   link: https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf
   author: Hailu Xu*, Pinchao Liu*, Boyuan Guan*, Liting Hu
@@ -59,113 +59,113 @@
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: Cloud'18
+  title: “A Toolset for Detecting Containerized Application's Dependencies in CaaS Clouds"
+  link: https://people.cs.vt.edu/~litinghu/doc/docman.pdf
+  author: Pinchao Liu*, Hailu Xu*, Zhiyuan Shi*, Jason Liu, Qingyang Wang, Jai Dayal, Yuzhe Tang, Liting Hu
+  conf_name: Proceedings of the 11th International Conference on Cloud Computing
+  conf_short: Cloud
+  conf_date: July 2018
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: Cloud'18
+  title: "Oases: An Online Scalable Spam Detection System for Social Networks"
+  link: https://people.cs.vt.edu/~litinghu/doc/oases.pdf
+  author: Hailu Xu*, Pinchao Liu*, Yao Xiao, Wentao Wang, Jai Dayal, Qingyang Wang, Yuzhe Tang, Liting Hu
+  conf_name: Proceedings of the 11th International Conference on Cloud Computing
+  conf_short: Cloud
+  conf_date: July 2018
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: ICAC'17
+  title: "GOVERNOR: Smoother Stream Processing Through Smarter Backpressure"
+  link: https://people.cs.vt.edu/~litinghu/doc/governor.pdf
+  author: Xin Chen, Ymir Vigfusson, Douglas M. Blough, Fang Zheng, Kun-Lung Wu, Liting Hu
+  conf_name: Proceedings of the 14th IEEE International Conference on Autonomic Computing
+  conf_short: ICAC
+  conf_date: July 2017
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: Cloud'17
+  title: "Breaking Down Hadoop Distributed File Systems Data Analytics Tools: Apache Hive vs. Apache Pig vs. Pivotal HWAQ"
+  link: https://people.cs.vt.edu/~litinghu/doc/breakingdown.pdf
+  author: Xin Chen*, Liangqi Liu*, Jing Chang*, Diana Leante Bone*, Liting Hu
+  conf_name: Xin Chen*, Liangqi Liu*, Jing Chang*, Diana Leante Bone*, Liting Hu
+  conf_short: Cloud
+  conf_date: June 2017
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: ICDCS'17
+  title: "RBAY: A Scalable and Extensible Information Plane for Federating Distributed Datacenter Resources"
+  link: https://people.cs.vt.edu/~litinghu/doc/rbay.pdf
+  author: Xin Chen*, Liting Hu, Douglas M. Blough, Michael A. Kozuch, Matthew Wolf
+  conf_name: Proceedings of the 37nd IEEE International Conference on Distributed Computing Systems
+  conf_short: ICDCS
+  conf_date: June 2017
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: USENIX ATC'14
+  title: "ELF: Efficient Lightweight Fast Stream Processing at Scale"
+  link: https://people.cs.vt.edu/~litinghu/doc/elf.pdf
+  author: Liting Hu, Karsten Schwan, Hrishikesh Amur, Xin Chen
+  conf_name: Proceedings of the 2014 USENIX Annual Technical Conference
+  conf_short: USENIX ATC
+  conf_date: June 2014
+  rate: 36/241=14.9%
+
+- type: main
+  conf: ICAC'12
+  title: "Net-Cohort: Detecting and Managing VM Ensembles in Data Center Systems"
+  link: https://people.cs.vt.edu/~litinghu/doc/netcohort.pdf
+  author: Liting Hu, Karsten Schwan, Ajay Gulati, Junjie Zhang, Chengwei Wang
+  conf_name: Proceedings of the 9th ACM International Conference on Autonomic Computing
+  conf_short: ICAC
+  conf_date: September 2012
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: ICDCS'12
+  title: "v-Bundle: Flexible Group Resource Offerings in Clouds"
+  link: https://people.cs.vt.edu/~litinghu/doc/vbundle.pdf
+  author: Liting Hu, Kyung Dong Ryu, Dilma Da Silva, Karsten Schwan
+  conf_name: Proceedings of the 32nd IEEE International Conference on Distributed Computing Systems
+  conf_short: ICDCS
+  conf_date: June 2012
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: ICAC'11
+  title: "A Flexible Architecture Integrating Monitoring and Analytics for Managing Large-Scale Data Centers"
+  link: https://people.cs.vt.edu/~litinghu/doc/monalytics.pdf
+  author: Chengwei Wang, Karsten Schwan, Vanish Talwar, Greg Eisenhauer, Liting Hu, Matthew Wolf
+  conf_name: Proceedings of the 8th ACM International Conference on Autonomic Computing
+  conf_short: ICAC
+  conf_date: June 2011
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: HPDC'09
+  title: "Live Migration of Virtual Machine Based on Execution Trace and Deterministic Replay"
+  link: https://people.cs.vt.edu/~litinghu/doc/livemigration.pdf
+  author: Haikun Liu, Hai Jin, Xiaofei Liao, Liting Hu, Chen Yu
+  conf_name: Proceedings of the 18th International ACM Symposium on High-Performance Parallel and Distributed Computing
+  conf_short: HPDC
+  conf_date: June 2009
   rate: 0
 
 - type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
-  rate: 0
-
-- type: main
-  conf: 
-  title: 
-  link: 
-  author: 
-  conf_name: 
-  conf_short: 
-  conf_date: 
+  conf: Cluster'08
+  title: "Magnet: A Novel Scheduling Policy for Power Reduction in Cluster with Virtual Machines"
+  link: https://people.cs.vt.edu/~litinghu/doc/magnet.pdf
+  author: Liting Hu, Hai Jin, Xiaofei Liao, Xianjie Xiong, Haikun Liu
+  conf_name: Proceedings of the 2008 IEEE International Conference on Cluster Computing
+  conf_short: Cluster
+  conf_date: September 2008
   rate: 0
 
 - type: main
