@@ -38,9 +38,9 @@ permalink: /publications/
   In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
   {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
-  {% endif %}
-  {% endif %}
   </p>
+  {% endif %}
+  {% endif %}
 {% endfor %}
 
 <h3>Workshop Papers</h3>
@@ -53,7 +53,7 @@ permalink: /publications/
   In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
   {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
-  {% endif %}
-  {% endif %}
   </p>
+  {% endif %}
+  {% endif %}
 {% endfor %}
