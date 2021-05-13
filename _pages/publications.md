@@ -21,7 +21,7 @@ permalink: /publications/
   <b>[{{ publi.conf }}]</b> <a href="{{ publi.link }}">{{ publi.title }}</a><br />
   {{ publi.author }}<br />
   In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
-  {% if publi.rate != "" %}
+  {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
   {% endif %}
   {% endif %}
