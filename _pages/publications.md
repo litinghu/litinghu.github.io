@@ -15,9 +15,13 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-{% for publi in site.data.publist %}
+{% for publi in site.data.publications %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  <em>[{{ publi.conf }}]</em><a href="{{ publi.title }}">{{ publi.link }}</a><br />
+  {{ publi.author }}<br />
+  {{ publi.conf_name }}(<em>{{ publi.conf_short}}</em>) {{ publi.conf_date }}<br />
+  {% if publi.rate != "" %}
+    Acceptance Rate: {{ publi.rate }}
+  {{ end if }}
+  
 {% endfor %}
