@@ -18,6 +18,6 @@ permalink: /publications/
   {{ publi.conf_name }}(<em>{{ publi.conf_short}}</em>) {{ publi.conf_date }}<br />
   {% if publi.rate != "" %}
     Acceptance Rate: {{ publi.rate }}
-  {% end if %}
+  {% endif %}
 
 {% endfor %}
