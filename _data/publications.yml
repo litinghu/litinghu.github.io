@@ -22,7 +22,7 @@
   conf: Middleware\'20
   title: "SR3: Customizable Recovery for Stateful Stream Processing Systems"
   link: https://people.cs.vt.edu/~litinghu/doc/sr3.pdf
-  author: Hailu Xu*, Pinchao Liu*, Susana Cruz-Diaz*, Dilma Da Silva, **Liting Hu**
+  author: "Hailu Xu*, Pinchao Liu*, Susana Cruz-Diaz*, Dilma Da Silva, **Liting Hu**"
   conf_name: Proceedings of ACM/IFIP Middleware 2020
   conf_short: Middleware
   conf_date: December 2020
@@ -32,7 +32,7 @@
   conf: IPDPS\'20
   title: "FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications"
   link: https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf
-  author: Pinchao Liu*, Hailu Xu*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, **Liting Hu**
+  author: "Pinchao Liu*, Hailu Xu*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, **Liting Hu**"
   conf_name: Proceedings of the 34th IEEE International Parallel & Distributed Processing Symposium
   conf_short: IPDPS
   conf_date: May 2020
@@ -42,7 +42,7 @@
   conf: Big Data Congress\'19
   title: "dpSmart: A Flexible Group Based Recommendation Framework for Digital Repository Systems"
   link: https://people.cs.vt.edu/~litinghu/doc/dpSmart.pdf
-  author: Boyuan Guan*, Pinchao Liu*, Hailu Xu*, Jennifer Fu, Qingyang Wang, **Liting Hu**
+  author: "Boyuan Guan*, Pinchao Liu*, Hailu Xu*, Jennifer Fu, Qingyang Wang, **Liting Hu**"
   conf_name: Proceedings of the 2019 International Congress on Big Data
   conf_short: Big Data Congress
   conf_date: July 2019
@@ -52,7 +52,7 @@
   conf: Cloud\'19
   title: "Exploiting the Spam Correlations in Scalable Online Social Spam Detection" 
   link: https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf
-  author: Hailu Xu*, Pinchao Liu*, Boyuan Guan*, **Liting Hu**
+  author: "Hailu Xu*, Pinchao Liu*, Boyuan Guan*, **Liting Hu**"
   conf_name: Proceedings of the 2019 International Conference on Cloud Computing
   conf_short: Cloud
   conf_date: June 2019. **Best Student Paper Award**
@@ -62,7 +62,7 @@
   conf: Cloud\'18
   title: “A Toolset for Detecting Containerized Application's Dependencies in CaaS Clouds"
   link: https://people.cs.vt.edu/~litinghu/doc/docman.pdf
-  author: Pinchao Liu*, Hailu Xu*, Zhiyuan Shi*, Jason Liu, Qingyang Wang, Jai Dayal, Yuzhe Tang, **Liting Hu**
+  author: "Pinchao Liu*, Hailu Xu*, Zhiyuan Shi*, Jason Liu, Qingyang Wang, Jai Dayal, Yuzhe Tang, **Liting Hu**"
   conf_name: Proceedings of the 11th International Conference on Cloud Computing
   conf_short: Cloud
   conf_date: July 2018
@@ -72,7 +72,7 @@
   conf: Cloud\'18
   title: "Oases: An Online Scalable Spam Detection System for Social Networks"
   link: https://people.cs.vt.edu/~litinghu/doc/oases.pdf
-  author: Hailu Xu*, Pinchao Liu*, Yao Xiao, Wentao Wang, Jai Dayal, Qingyang Wang, Yuzhe Tang, **Liting Hu**
+  author: "Hailu Xu*, Pinchao Liu*, Yao Xiao, Wentao Wang, Jai Dayal, Qingyang Wang, Yuzhe Tang, **Liting Hu**"
   conf_name: Proceedings of the 11th International Conference on Cloud Computing
   conf_short: Cloud
   conf_date: July 2018
@@ -92,8 +92,8 @@
   conf: Cloud\'17
   title: "Breaking Down Hadoop Distributed File Systems Data Analytics Tools: Apache Hive vs. Apache Pig vs. Pivotal HWAQ"
   link: https://people.cs.vt.edu/~litinghu/doc/breakingdown.pdf
-  author: Xin Chen*, Liangqi Liu*, Jing Chang*, Diana Leante Bone*, **Liting Hu**
-  conf_name: Xin Chen*, Liangqi Liu*, Jing Chang*, Diana Leante Bone*, **Liting Hu**
+  author: "Xin Chen*, Liangqi Liu*, Jing Chang*, Diana Leante Bone*, **Liting Hu**"
+  conf_name: Proceedings of the 10th IEEE International Conference on Cloud Computing
   conf_short: Cloud
   conf_date: June 2017
   rate: 0
@@ -102,7 +102,7 @@
   conf: ICDCS'17
   title: "RBAY: A Scalable and Extensible Information Plane for Federating Distributed Datacenter Resources"
   link: https://people.cs.vt.edu/~litinghu/doc/rbay.pdf
-  author: Xin Chen*, **Liting Hu**, Douglas M. Blough, Michael A. Kozuch, Matthew Wolf
+  author: "Xin Chen*, **Liting Hu**, Douglas M. Blough, Michael A. Kozuch, Matthew Wolf"
   conf_name: Proceedings of the 37nd IEEE International Conference on Distributed Computing Systems
   conf_short: ICDCS
   conf_date: June 2017
@@ -142,7 +142,7 @@
   conf: ICAC\'11
   title: "A Flexible Architecture Integrating Monitoring and Analytics for Managing Large-Scale Data Centers"
   link: https://people.cs.vt.edu/~litinghu/doc/monalytics.pdf
-  author: Chengwei Wang, Karsten Schwan, Vanish Talwar, Greg Eisenhauer, **Liting Hu**, Matthew Wolf
+  author: "Chengwei Wang, Karsten Schwan, Vanish Talwar, Greg Eisenhauer, **Liting Hu**, Matthew Wolf"
   conf_name: Proceedings of the 8th ACM International Conference on Autonomic Computing
   conf_short: ICAC
   conf_date: June 2011
@@ -152,7 +152,7 @@
   conf: HPDC\'09
   title: "Live Migration of Virtual Machine Based on Execution Trace and Deterministic Replay"
   link: https://people.cs.vt.edu/~litinghu/doc/livemigration.pdf
-  author: Haikun Liu, Hai Jin, Xiaofei Liao, **Liting Hu**, Chen Yu
+  author: "Haikun Liu, Hai Jin, Xiaofei Liao, **Liting Hu**, Chen Yu"
   conf_name: Proceedings of the 18th International ACM Symposium on High-Performance Parallel and Distributed Computing
   conf_short: HPDC
   conf_date: June 2009
@@ -232,7 +232,7 @@
   conf: MCHPC\'19
   title: Machine Learning Guided Optimal Use of GPU Unified Memory
   link: https://people.cs.vt.edu/~litinghu/doc/mchpc.pdf
-  author: Hailu Xu*, Murali Emani, Pei-Hung Lin, **Liting Hu**, Chunhua Liao
+  author: "Hailu Xu*, Murali Emani, Pei-Hung Lin, **Liting Hu**, Chunhua Liao"
   conf_name: Proceedings of the Workshop on Memory Centric High Performance Computing, in conjunction with SC 19
   conf_short: MCHPC
   conf_date: November 2019
@@ -242,7 +242,7 @@
   conf: BSMDMA\'18
   title: "Harnessing the Nature of Spam in Scalable Online Social Spam Detection"
   link: https://people.cs.vt.edu/~litinghu/doc/sifter.pdf
-  author: Hailu Xu*, Boyuan Guan*, Pinchao Liu*, William Escudero*, **Liting Hu**
+  author: "Hailu Xu*, Boyuan Guan*, Pinchao Liu*, William Escudero*, **Liting Hu**"
   conf_name: the 2018 International Workshop on Big Social Media Data Management and Analysis, in conjunction with IEEE Big Data
   conf_short: BSMDMA
   conf_date: December 2018
@@ -252,7 +252,7 @@
   conf: MBDS\'12
   title: "Project Hoover: Auto-Scaling Streaming Map-Reduce Applications"
   link: https://people.cs.vt.edu/~litinghu/doc/projecthoover.pdf
-  author: Rajalakshmi Ramesh, **Liting Hu**, Karsten Schwan,
+  author: "Rajalakshmi Ramesh, **Liting Hu**, Karsten Schwan"
   conf_name: Proceedings of the 2nd Workshop on Management of Big Data Systems, in conjunction with ACM ICAC’12
   conf_short: MBDS
   conf_date: September 2012
