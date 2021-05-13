@@ -17,3 +17,882 @@
   conf_short: IROS
   conf_date: January 2021
   rate: 0
+
+- type: main
+  conf: Middleware'20
+  title: "SR3: Customizable Recovery for Stateful Stream Processing Systems"
+  link: https://people.cs.vt.edu/~litinghu/doc/sr3.pdf
+  author: Hailu Xu*, Pinchao Liu*, Susana Cruz-Diaz*, Dilma Da Silva, Liting Hu
+  conf_name: Proceedings of ACM/IFIP Middleware 2020
+  conf_short: Middleware
+  conf_date: December 2020
+  rate: 0
+
+- type: main
+  conf: IPDPS'20
+  title: "FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications"
+  link: https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf
+  author: Pinchao Liu*, Hailu Xu*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, Liting Hu
+  conf_name: Proceedings of the 34th IEEE International Parallel & Distributed Processing Symposium
+  conf_short: IPDPS
+  conf_date: May 2020
+  rate: 0
+
+- type: main
+  conf: Big Data Congress'19
+  title: "dpSmart: A Flexible Group Based Recommendation Framework for Digital Repository Systems"
+  link: https://people.cs.vt.edu/~litinghu/doc/dpSmart.pdf
+  author: Boyuan Guan*, Pinchao Liu*, Hailu Xu*, Jennifer Fu, Qingyang Wang, Liting Hu
+  conf_name: Proceedings of the 2019 International Congress on Big Data
+  conf_short: Big Data Congress
+  conf_date: July 2019
+  rate: 0
+
+- type: main
+  conf: 
+  title: "Exploiting the Spam Correlations in Scalable Online Social Spam Detection" 
+  link: https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf
+  author: Hailu Xu*, Pinchao Liu*, Boyuan Guan*, Liting Hu
+  conf_name: Proceedings of the 2019 International Conference on Cloud Computing
+  conf_short: Cloud
+  conf_date: June 2019. **Best Student Paper Award**
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
+
+- type: main
+  conf: 
+  title: 
+  link: 
+  author: 
+  conf_name: 
+  conf_short: 
+  conf_date: 
+  rate: 0
