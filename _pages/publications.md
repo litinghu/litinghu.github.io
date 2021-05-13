@@ -27,7 +27,6 @@ permalink: /publications/
   {% endif %}
 {% endfor %}
 
-<p> &nbsp; </p>
 <h3 style="margin-bottom: 22px;">Journal Articles</h3>
 {% for publi in site.data.publications %}
   {% if publi.type == "j" %}
@@ -42,7 +41,6 @@ permalink: /publications/
   {% endif %}
 {% endfor %}
 
-<p> &nbsp; </p>
 <h3 style="margin-bottom: 22px;">Workshop Papers</h3>
 {% for publi in site.data.publications %}
   {% if publi.type == "w" %}
