@@ -22,7 +22,7 @@
   conf: Middleware\'20
   title: "SR3: Customizable Recovery for Stateful Stream Processing Systems"
   link: https://people.cs.vt.edu/~litinghu/doc/sr3.pdf
-  author: "Hailu Xu\*, Pinchao Liu\*, Susana Cruz-Diaz*, Dilma Da Silva, **Liting Hu**"
+  author: "Hailu Xu\*, Pinchao Liu\*, Susana Cruz-Diaz\*, Dilma Da Silva, **Liting Hu**"
   conf_name: Proceedings of ACM/IFIP Middleware 2020
   conf_short: Middleware
   conf_date: December 2020
