@@ -14,8 +14,8 @@ permalink: /publications/
 <b>Students advised by Dr.Liting Hu are identified by \"*\".</b> 
 
 {% for publi in site.data.publications %}
-  {% if publi.type == "main" %}
   ## Main Conference
+  {% if publi.type == "main" %}
   <b>[{{ publi.conf }}]</b> <a href="{{ publi.link }}">{{ publi.title }}</a><br />
   {{ publi.author }}<br />
   {{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>), {{ publi.conf_date }}
