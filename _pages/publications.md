@@ -24,8 +24,8 @@ permalink: /publications/
   {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
   {% endif %}
-  {% endif %}
   </p>
+  {% endif %}
 {% endfor %}
 
 <h3>Journal Articles</h3>
@@ -38,8 +38,8 @@ permalink: /publications/
   In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
   {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
-  </p>
   {% endif %}
+  </p>
   {% endif %}
 {% endfor %}
 
@@ -53,7 +53,7 @@ permalink: /publications/
   In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
   {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
-  </p>
   {% endif %}
+  </p>
   {% endif %}
 {% endfor %}
