@@ -9,10 +9,6 @@ permalink: /publications/
 
 # Publications
 
-<!-- ## Group highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
-
 <p> &nbsp; </p>
 
 {% for publi in site.data.publications %}
@@ -22,6 +18,6 @@ permalink: /publications/
   {{ publi.conf_name }}(<em>{{ publi.conf_short}}</em>) {{ publi.conf_date }}<br />
   {% if publi.rate != "" %}
     Acceptance Rate: {{ publi.rate }}
-  {{ end if }}
-  
+  {% end if %}
+
 {% endfor %}
