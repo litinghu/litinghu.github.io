@@ -214,7 +214,7 @@
   link: https://people.cs.vt.edu/~litinghu/doc/energy_optimization.pdf
   author: Xiaofei Liao, **Liting Hu**, Hai Jin
   conf_name: Cluster Computing
-  conf_short: 
+  conf_short: Cluster Computing
   conf_date: Volume 13 Issue 2, June 2010, Pages 113-126
   rate: 0
 
@@ -224,7 +224,7 @@
   link: https://people.cs.vt.edu/~litinghu/doc/towards.pdf
   author: Xiaofei Liao, Hai Jin, **Liting Hu**, Haikun Liu
   conf_name: "IEEE Concurrency and Computation: Practice and Experience"
-  conf_short: 
+  conf_short: "Concurrency&Computation"
   conf_date: Volumn 22 Issue 4, March 2010, Pages 419-440
   rate: 0
 
@@ -274,6 +274,6 @@
   link: https://people.cs.vt.edu/~litinghu/doc/lvd.pdf
   author: Xiaofei Liao, Xianjie Xiong, Hai Jin, **Liting Hu**
   conf_name: International Workshop on Systems and Virtualization Management, Springer
-  conf_short: 
+  conf_short: SVM
   conf_date: October 2008
   rate: 0
