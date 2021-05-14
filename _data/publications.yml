@@ -7,6 +7,7 @@
   conf_short: USENIX ATC
   conf_date: July 2021.
   rate: 64/341 = 18.8%
+  location: Virtual event,
 
 - type: main
   conf: IROS\'20
@@ -17,6 +18,7 @@
   conf_short: IROS
   conf_date: January 2021.
   rate: 0
+  location: 
 
 - type: main
   conf: Middleware\'20
@@ -27,6 +29,7 @@
   conf_short: Middleware
   conf_date: December 2020.
   rate: 0
+  location:
 
 - type: main
   conf: IPDPS\'20
@@ -37,6 +40,7 @@
   conf_short: IPDPS
   conf_date: May 2020.
   rate: 0
+  location:
 
 - type: main
   conf: Big Data Congress\'19
@@ -47,6 +51,7 @@
   conf_short: Big Data Congress
   conf_date: July 2019.
   rate: 0
+  location:
 
 - type: main
   conf: Cloud\'19
@@ -57,6 +62,7 @@
   conf_short: Cloud
   conf_date: June 2019. **Best Student Paper Award**
   rate: 0
+  location:
 
 - type: main
   conf: Cloud\'18
@@ -67,6 +73,7 @@
   conf_short: Cloud
   conf_date: July 2018.
   rate: 0
+  location:
 
 - type: main
   conf: Cloud\'18
@@ -77,6 +84,7 @@
   conf_short: Cloud
   conf_date: July 2018.
   rate: 0
+  location:
 
 - type: main
   conf: ICAC\'17
@@ -87,6 +95,7 @@
   conf_short: ICAC
   conf_date: July 2017.
   rate: 0
+  location:
 
 - type: main
   conf: Cloud\'17
@@ -107,6 +116,7 @@
   conf_short: ICDCS
   conf_date: June 2017.
   rate: 0
+  location:
 
 - type: main
   conf: USENIX ATC\'14
@@ -117,6 +127,7 @@
   conf_short: USENIX ATC
   conf_date: June 2014.
   rate: 36/241=14.9%
+  location:
 
 - type: main
   conf: ICAC\'12
@@ -127,6 +138,7 @@
   conf_short: ICAC
   conf_date: September 2012.
   rate: 0
+  location:
 
 - type: main
   conf: ICDCS\'12
@@ -137,6 +149,7 @@
   conf_short: ICDCS
   conf_date: June 2012.
   rate: 0
+  location:
 
 - type: main
   conf: ICAC\'11
@@ -147,6 +160,7 @@
   conf_short: ICAC
   conf_date: June 2011.
   rate: 0
+  location:
 
 - type: main
   conf: HPDC\'09
@@ -157,6 +171,7 @@
   conf_short: HPDC
   conf_date: June 2009.
   rate: 0
+  location:
 
 - type: main
   conf: Cluster\'08
@@ -167,6 +182,7 @@
   conf_short: Cluster
   conf_date: September 2008.
   rate: 0
+  location:
 
 - type: j
   conf: TPDS
@@ -177,6 +193,7 @@
   conf_short: IEEE TPDS
   conf_date: March 2020.
   rate: 0
+  location:
 
 - type: j
   conf: ETSS
@@ -187,6 +204,7 @@
   conf_short: ETSS
   conf_date: January 2019.
   rate: 0
+  location:
 
 - type: j
   conf: TPDS
@@ -197,6 +215,7 @@
   conf_short: IEEE TPDS
   conf_date: vol. 30, no. 4, pp. 855-869, April 2019.
   rate: 0
+  location:
 
 - type: j
   conf: SIGOPS
@@ -207,6 +226,7 @@
   conf_short: SIGOPS
   conf_date: Volume 47 Issue 3, December 2013, Pages 50-62.
   rate: 0
+  location:
 
 - type: j
   conf: Cluster Computing
@@ -217,6 +237,7 @@
   conf_short: Cluster Computing
   conf_date: Volume 13 Issue 2, June 2010, Pages 113-126.
   rate: 0
+  location:
 
 - type: j
   conf: "Concurrency&Computation"
@@ -227,6 +248,7 @@
   conf_short: "Concurrency&Computation"
   conf_date: Volumn 22 Issue 4, March 2010, Pages 419-440.
   rate: 0
+  location:
 
 - type: w
   conf: MCHPC\'19
@@ -237,6 +259,7 @@
   conf_short: MCHPC
   conf_date: November 2019.
   rate: 0
+  location:
 
 - type: w
   conf: BSMDMA\'18
@@ -247,6 +270,7 @@
   conf_short: BSMDMA
   conf_date: December 2018.
   rate: 0
+  location:
 
 - type: w
   conf: MBDS\'12
@@ -267,6 +291,7 @@
   conf_short: HotCloud
   conf_date: June 2010.
   rate: 0
+  location:
 
 - type: w
   conf: SVM\'08
@@ -277,3 +302,4 @@
   conf_short: SVM
   conf_date: October 2008.
   rate: 0
+  location:
