@@ -99,7 +99,7 @@
   rate: 0
 
 - type: main
-  conf: ICDCS'17
+  conf: ICDCS\'17
   title: "RBAY: A Scalable and Extensible Information Plane for Federating Distributed Datacenter Resources"
   link: https://people.cs.vt.edu/~litinghu/doc/rbay.pdf
   author: Xin Chen\*, **Liting Hu**, Douglas M. Blough, Michael A. Kozuch, Matthew Wolf
