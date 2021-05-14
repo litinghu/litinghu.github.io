@@ -7,13 +7,11 @@ permalink: /publications/
 ---
 
 
-# Publications
-
-<p> &nbsp; </p>
+<h1 style="margin-bottom: 22px;">Publications</h1>
 
 <b>Students advised by Dr.Liting Hu are identified by \"*\".</b> 
 
-<h3 style="margin-bottom: 22px;">Conference Papers</h3>
+<h3 style="margin-top:22px; margin-bottom: 22px;">Conference Papers</h3>
 {% for publi in site.data.publications %}
   {% if publi.type == "main" %}
   <p style="margin-bottom: 15px;">
