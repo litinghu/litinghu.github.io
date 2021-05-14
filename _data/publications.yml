@@ -260,7 +260,7 @@
   conf_short: MCHPC
   conf_date: November 2019.
   rate: 0
-  location:
+  location: Denver, CO, USA,
 
 - type: w
   conf: BSMDMA\'18
@@ -271,7 +271,7 @@
   conf_short: BSMDMA
   conf_date: December 2018.
   rate: 0
-  location:
+  location: Seattle, WA, USA,
 
 - type: w
   conf: MBDS\'12
@@ -282,6 +282,7 @@
   conf_short: MBDS
   conf_date: September 2012.
   rate: 0
+  location: New York, NY, USA,
 
 - type: w
   conf: HotCloud\'10
@@ -292,7 +293,7 @@
   conf_short: HotCloud
   conf_date: June 2010.
   rate: 0
-  location:
+  location: Boston, MA, USA,
 
 - type: w
   conf: SVM\'08
@@ -303,4 +304,4 @@
   conf_short: SVM
   conf_date: October 2008.
   rate: 0
-  location:
+  location: Munich, Germany,
