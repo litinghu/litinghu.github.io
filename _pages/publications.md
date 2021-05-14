@@ -15,7 +15,7 @@ permalink: /publications/
 {% for publi in site.data.publications %}
   {% if publi.type == "main" %}
   <p style="margin-bottom: 22px;">
-  <b style="color:#DC143C">[{{ publi.conf }}]</b> <a href="{{ publi.link }}">{{ publi.title }}</a><br />
+  <b>[<b style="color:#DC143C">{{ publi.conf }}</b>]</b> <a href="{{ publi.link }}">{{ publi.title }}</a><br />
   {{ publi.author }}<br />
   In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
   {% if publi.rate != 0 %}
