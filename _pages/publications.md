@@ -17,7 +17,7 @@ permalink: /publications/
   <p style="margin-bottom: 22px;">
   <b style="color:#DC143C">[{{ publi.conf }}]</b> <a href="{{ publi.link }}">{{ publi.title }}</a><br />
   {{ publi.author }}<br />
-  In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
+  In <em>{{ publi.conf_name }} (<b>{{ publi.conf}}</b>)</em>, {{ publi.conf_date }}.
   {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
   {% endif %}
@@ -31,7 +31,7 @@ permalink: /publications/
   <p style="margin-bottom: 22px;">
   <b style="color:#DC143C">[{{ publi.conf }}]</b> <a href="{{ publi.link }}">{{ publi.title }}</a><br />
   {{ publi.author }}<br />
-  In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
+  In <em>{{ publi.conf_name }} (<b>{{ publi.conf}}</b>)</em>, {{ publi.conf_date }}.
   {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
   {% endif %}
@@ -45,7 +45,7 @@ permalink: /publications/
   <p style="margin-bottom: 22px;">
   <b style="color:#DC143C">[{{ publi.conf }}]</b> <a href="{{ publi.link }}">{{ publi.title }}</a><br />
   {{ publi.author }}<br />
-  In <em>{{ publi.conf_name }} (<b>{{ publi.conf_short}}</b>)</em>, {{ publi.conf_date }}.
+  In <em>{{ publi.conf_name }} (<b>{{ publi.conf}}</b>)</em>, {{ publi.conf_date }}.
   {% if publi.rate != 0 %}
   Acceptance Rate: {{ publi.rate }}
   {% endif %}
