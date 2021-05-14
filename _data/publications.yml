@@ -51,7 +51,7 @@
   conf_short: Big Data Congress
   conf_date: July 2019.
   rate: 0
-  location: Milan, Italy
+  location: Milan, Italy,
 
 - type: main
   conf: Cloud\'19
@@ -62,7 +62,7 @@
   conf_short: Cloud
   conf_date: June 2019. **Best Student Paper Award**
   rate: 0
-  location: San Diego, USA
+  location: San Diego, USA,
 
 - type: main
   conf: Cloud\'18
@@ -73,7 +73,7 @@
   conf_short: Cloud
   conf_date: July 2018.
   rate: 0
-  location:
+  location: San Francisco, CA, USA,
 
 - type: main
   conf: Cloud\'18
@@ -84,7 +84,7 @@
   conf_short: Cloud
   conf_date: July 2018.
   rate: 0
-  location:
+  location: San Francisco, CA, USA,
 
 - type: main
   conf: ICAC\'17
@@ -95,7 +95,7 @@
   conf_short: ICAC
   conf_date: July 2017.
   rate: 0
-  location:
+  location: Columbus, Ohio, USA,
 
 - type: main
   conf: Cloud\'17
@@ -106,6 +106,7 @@
   conf_short: Cloud
   conf_date: June 2017.
   rate: 0
+  location: Honolulu, Hawaii, USA,
 
 - type: main
   conf: ICDCS\'17
@@ -116,7 +117,7 @@
   conf_short: ICDCS
   conf_date: June 2017.
   rate: 0
-  location:
+  location: Atlanta, GA, USA,
 
 - type: main
   conf: USENIX ATC\'14
@@ -127,7 +128,7 @@
   conf_short: USENIX ATC
   conf_date: June 2014.
   rate: 36/241=14.9%
-  location:
+  location: Philadelphia, PA, USA,
 
 - type: main
   conf: ICAC\'12
@@ -138,7 +139,7 @@
   conf_short: ICAC
   conf_date: September 2012.
   rate: 0
-  location:
+  location: New York, NY, USA,
 
 - type: main
   conf: ICDCS\'12
@@ -149,7 +150,7 @@
   conf_short: ICDCS
   conf_date: June 2012.
   rate: 0
-  location:
+  location: Macau, China,
 
 - type: main
   conf: ICAC\'11
@@ -160,7 +161,7 @@
   conf_short: ICAC
   conf_date: June 2011.
   rate: 0
-  location:
+  location: Karlsruhe, Germany,
 
 - type: main
   conf: HPDC\'09
@@ -171,7 +172,7 @@
   conf_short: HPDC
   conf_date: June 2009.
   rate: 0
-  location:
+  location: Munich, Germany,
 
 - type: main
   conf: Cluster\'08
@@ -182,7 +183,7 @@
   conf_short: Cluster
   conf_date: September 2008.
   rate: 0
-  location:
+  location: Tsukuba, Japan,
 
 - type: j
   conf: TPDS
