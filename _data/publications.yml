@@ -18,7 +18,7 @@
   conf_short: IROS
   conf_date: January 2021.
   rate: 0
-  location: 
+  location: Virtual event,
 
 - type: main
   conf: Middleware\'20
@@ -29,7 +29,7 @@
   conf_short: Middleware
   conf_date: December 2020.
   rate: 0
-  location:
+  location: Virtual event,
 
 - type: main
   conf: IPDPS\'20
@@ -40,7 +40,7 @@
   conf_short: IPDPS
   conf_date: May 2020.
   rate: 0
-  location:
+  location: Virtual event,
 
 - type: main
   conf: Big Data Congress\'19
@@ -51,7 +51,7 @@
   conf_short: Big Data Congress
   conf_date: July 2019.
   rate: 0
-  location:
+  location: Milan, Italy
 
 - type: main
   conf: Cloud\'19
@@ -62,7 +62,7 @@
   conf_short: Cloud
   conf_date: June 2019. **Best Student Paper Award**
   rate: 0
-  location:
+  location: San Diego, USA
 
 - type: main
   conf: Cloud\'18
