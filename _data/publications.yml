@@ -62,7 +62,7 @@
   conf_short: Cloud
   conf_date: June 2019. **Best Student Paper Award**
   rate: 0
-  location: San Diego, USA,
+  location: San Diego, CA,
 
 - type: main
   conf: Cloud\'18
@@ -73,7 +73,7 @@
   conf_short: Cloud
   conf_date: July 2018.
   rate: 0
-  location: San Francisco, CA, USA,
+  location: San Francisco, CA,
 
 - type: main
   conf: Cloud\'18
@@ -84,7 +84,7 @@
   conf_short: Cloud
   conf_date: July 2018.
   rate: 0
-  location: San Francisco, CA, USA,
+  location: San Francisco, CA,
 
 - type: main
   conf: ICAC\'17
@@ -95,7 +95,7 @@
   conf_short: ICAC
   conf_date: July 2017.
   rate: 0
-  location: Columbus, Ohio, USA,
+  location: Columbus, Ohio,
 
 - type: main
   conf: Cloud\'17
@@ -106,7 +106,7 @@
   conf_short: Cloud
   conf_date: June 2017.
   rate: 0
-  location: Honolulu, Hawaii, USA,
+  location: Honolulu, Hawaii,
 
 - type: main
   conf: ICDCS\'17
@@ -117,7 +117,7 @@
   conf_short: ICDCS
   conf_date: June 2017.
   rate: 0
-  location: Atlanta, GA, USA,
+  location: Atlanta, GA,
 
 - type: main
   conf: USENIX ATC\'14
@@ -128,7 +128,7 @@
   conf_short: USENIX ATC
   conf_date: June 2014.
   rate: 36/241=14.9%
-  location: Philadelphia, PA, USA,
+  location: Philadelphia, PA,
 
 - type: main
   conf: ICAC\'12
@@ -139,7 +139,7 @@
   conf_short: ICAC
   conf_date: September 2012.
   rate: 0
-  location: New York, NY, USA,
+  location: New York, NY,
 
 - type: main
   conf: ICDCS\'12
@@ -260,7 +260,7 @@
   conf_short: MCHPC
   conf_date: November 2019.
   rate: 0
-  location: Denver, CO, USA,
+  location: Denver, CO,
 
 - type: w
   conf: BSMDMA\'18
@@ -271,7 +271,7 @@
   conf_short: BSMDMA
   conf_date: December 2018.
   rate: 0
-  location: Seattle, WA, USA,
+  location: Seattle, WA,
 
 - type: w
   conf: MBDS\'12
@@ -282,7 +282,7 @@
   conf_short: MBDS
   conf_date: September 2012.
   rate: 0
-  location: New York, NY, USA,
+  location: New York, NY,
 
 - type: w
   conf: HotCloud\'10
@@ -293,7 +293,7 @@
   conf_short: HotCloud
   conf_date: June 2010.
   rate: 0
-  location: Boston, MA, USA,
+  location: Boston, MA,
 
 - type: w
   conf: SVM\'08
