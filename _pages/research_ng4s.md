@@ -40,7 +40,7 @@ permalink: /research_ng4s/
 ## Outreach
 
 Curriculum Development Activities
-- Course 6913: Advanced Topics in Information Processing. ["[Video Playlist Link]"](https://www.youtube.com/watch?v=fhN3szbOr9E&list=PLGtMEQgQy8UZvqmsXzeJ43Xzm_ItCQekE)
+- Course 6913: Advanced Topics in Information Processing. [[Video Playlist Link]](https://www.youtube.com/watch?v=fhN3szbOr9E&list=PLGtMEQgQy8UZvqmsXzeJ43Xzm_ItCQekE)
 
 Stream Processing Tutorials
 - [Apache Storm](https://youtu.be/-8XGburfkuY)

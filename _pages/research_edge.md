@@ -38,7 +38,7 @@ USXNIX ATC’21 <br />
 
 ## Source Code
 
-- DART: A Scalable and Adaptive Edge Stream Processing Engine ["[Source Code]"](https://github.com/fiu-elves/DART)
+- DART: A Scalable and Adaptive Edge Stream Processing Engine [[Source Code]](https://github.com/fiu-elves/DART)
 
 ## Acknowledgement
 
