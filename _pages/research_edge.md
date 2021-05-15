@@ -32,8 +32,8 @@ permalink: /research_edge/
 
 ## Presentations
 
-Dr. Liting Hu, DART: A Scalable and Adaptive Edge Stream Processing Engine </br>
-USXNIX ATC’21 </br>
+Dr. Liting Hu, DART: A Scalable and Adaptive Edge Stream Processing Engine <br />
+USXNIX ATC’21 <br />
 [Slides]
 
 ## Source Code
