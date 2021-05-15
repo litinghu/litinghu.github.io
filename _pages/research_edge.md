@@ -6,49 +6,38 @@ sitemap: false
 permalink: /research_edge/
 ---
 
-# Research Interests
+# Project Summary
 
-- <span>**Stream Processing Systems:**</span> [SR3](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf), [FP4S](https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf), [Governor](https://people.cs.vt.edu/~litinghu/doc/governor.pdf), [ELF](https://people.cs.vt.edu/~litinghu/doc/elf.pdf), [Project Hoover](https://people.cs.vt.edu/~litinghu/doc/projecthoover.pdf)
-- <span>**Spam Detection in Online Social Networks:**</span> [SpamHunter](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf), [Oases](https://people.cs.vt.edu/~litinghu/doc/oases.pdf)
-- <span>**Developing Machine Learning Techniques for Systems:**</span> [Max Orientation Coverage](https://people.cs.vt.edu/~litinghu/doc/iros.pdf), [dpSmart](https://people.cs.vt.edu/~litinghu/doc/dpSmart.pdf), [XPlacer](https://people.cs.vt.edu/~litinghu/doc/mchpc.pdf)
-- <span>**Container as a Service in the Cloud:**</span> [Docman](https://people.cs.vt.edu/~litinghu/doc/Docman.pdf)
-- <span>**Resource Management in Large-Scale Data Centers:**</span> [RBay](https://people.cs.vt.edu/~litinghu/doc/rbay.pdf), [v-Bundle](https://people.cs.vt.edu/~litinghu/doc/vbundle.pdf), [Net-Cohort](https://people.cs.vt.edu/~litinghu/doc/netcohort.pdf), [Look Who’s Talking](https://people.cs.vt.edu/~litinghu/doc/look.pdf), [Monalytics](https://people.cs.vt.edu/~litinghu/doc/monalytics.pdf), [Live Migration of VMs](https://people.cs.vt.edu/~litinghu/doc/livemigration.pdf), [Magnet](https://people.cs.vt.edu/~litinghu/doc/magnet.pdf)
+<p>Internet-of-Things (IoT) applications such as self-driving cars, augmented reality, interactive gaming, and event monitoring have a tremendous potential to improve our lives. These applications generate a large influx of sensor data at massive scales. Under many time-critical scenarios, these massive data streams must be processed in a very short time to derive actionable intelligence. This CAREER project aims to support time-critical IoT applications by applying the stream processing paradigm to the Edge computing architecture in the dynamic, heterogeneous Edge environment. As an integral part of its research program, this CAREER project involves K-12, undergraduate and graduate level education in partnership with the local Public School system.</p>
 
-<h1 id="research-projects" style="
-    margin-bottom: 22px;
-">Research Projects</h1>
+<p>This project includes three primary research directions. (1) A new dynamic dataflow graph abstraction is proposed, which automatically chains, parallelizes and replicates stream operators to adapt to the Edge dynamics. (2) A new customizable data shuffling service abstraction is proposed, which customizes the data shuffling path (e.g., ring shuffle, hierarchical tree shuffle, butterfly wrap shuffle) at runtime for given network topology and workload. (3) A fully decentralized architecture with many distributed schedulers is proposed, in which each scheduler operates autonomously to process IoT queries. All three parts of the project will be prototyped and implemented on real-world stream processing systems and validated by performing real-world experiments.</p>
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+## Participants
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+### Principal Investigator
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+- Dr. Liting Hu, Assistant Professor, Virginia Tech
 
-<div class="col-sm-12 clearfix">
- <div class="well"  style="height: {{publi.wellheight}}px; margin-bottom: 40px;">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="31%" style="float: left; margin-right: 30px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 3%;" height="1100" />
-  <p>{{ publi.description }} <a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
-  <p><b>Selected Publications: </b>{{ publi.authors }}</p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
+### Students
 
-{% assign number_printed = number_printed | plus: 1 %}
+- Pinchao Liu, Ph.D. student, Florida International University
+- Ulises Fernandez, B.S. student, Florida International University
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+## Publications
 
-{% endif %}
-{% endfor %}
+- <b>[USENIX ATC'21]</b> Pinchao Liu*, Dilma Da Silva, Liting Hu, “DART: A Scalable and Adaptive Edge Stream Processing Engine”, in <em>Proceedings of the 2021 USENIX Annual Technical Conference (USENIX ATC'21)</em>, July 2021. Acceptance Rate: 64/341 = 18.8%.
+- <b>[Middleware'20]</b> Hailu Xu*, Pinchao Liu*, Susana Cruz-Diaz*, Dilma Da Silva, Liting Hu, “SR3: Customizable Recovery for Stateful Stream Processing Systems”, in <em>Proceedings of ACM/IFIP Middleware 2020 (Middleware'20)</em>, December 2020.
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+## Presentations
+
+Dr. Liting Hu, DART: A Scalable and Adaptive Edge Stream Processing Engine
+USXNIX ATC’21
+[Slides]
+
+## Source Code
+
+- DART: A Scalable and Adaptive Edge Stream Processing Engine [Source Code]
+
+## Acknowledgement
+
+<p>This material is based upon work supported by the National Science Foundation CAREER award NSF-CAREER-1943071.</p>
