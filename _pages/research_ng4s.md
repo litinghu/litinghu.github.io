@@ -31,10 +31,10 @@ permalink: /research_ng4s/
 
 ## Publications
 
-- <b>[USENIX ATC'21]</b> Pinchao Liu*, Dilma Da Silva, Liting Hu, \"DART: A Scalable and Adaptive Edge Stream Processing Engine\", in <em>Proceedings of the 2021 USENIX Annual Technical Conference (USENIX ATC'21)</em>, July 2021. Acceptance Rate: 64/341 = 18.8%.
+- <b>[USENIX ATC'21]</b> Pinchao Liu\*, Dilma Da Silva, Liting Hu, \"DART: A Scalable and Adaptive Edge Stream Processing Engine\", in <em>Proceedings of the 2021 USENIX Annual Technical Conference (USENIX ATC'21)</em>, July 2021. Acceptance Rate: 64/341 = 18.8%.
 - <b>[Middleware'20]</b> Hailu Xu*, Pinchao Liu*, Susana Cruz-Diaz*, Dilma Da Silva, Liting Hu, \"SR3: Customizable Recovery for Stateful Stream Processing Systems\", in <em>Proceedings of ACM/IFIP Middleware 2020 (Middleware'20)</em>, December 2020.
-- <b>[IPDPS'20]</b> Pinchao Liu*, Hailu Xu*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, Liting Hu, \"FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications\", in <em>Proceedings of the 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS'20)</em>, May 2020.
-- <b>[Cloud'19]</b> Hailu Xu*, Pinchao Liu*, Boyuan Guan*, Liting Hu, \"Exploiting the Spam Correlations in Scalable Online Social Spam Detection\", in <em>Proceedings of the 2019 International Conference on Cloud Computing (Cloud'19)</em>, June 2019. Best Student Paper Award
+- <b>[IPDPS'20]</b> Pinchao Liu\*, Hailu Xu\*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, Liting Hu, \"FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications\", in <em>Proceedings of the 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS'20)</em>, May 2020.
+- <b>[Cloud'19]</b> Hailu Xu\*, Pinchao Liu\*, Boyuan Guan\*, Liting Hu, \"Exploiting the Spam Correlations in Scalable Online Social Spam Detection\", in <em>Proceedings of the 2019 International Conference on Cloud Computing (Cloud'19)</em>, June 2019. Best Student Paper Award
 
 
 ## Outreach
