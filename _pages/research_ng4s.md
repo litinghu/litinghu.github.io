@@ -16,12 +16,12 @@ permalink: /research_ng4s/
 
 ## Participants
 
-<h4 style="text-indent: 5em">Principal Investigator</h4>
+<h3 style="text-indent: 1em">Principal Investigator</h4>
 
 - Dr. Liting Hu, Assistant Professor, Virginia Tech
 - Dr. Dilma Da Silva, Professor, Texas A&M University
 
-<h4 style="text-indent: 5em">Members</h4>
+<h3 style="text-indent: 1em">Members</h4>
 
 - Hailu Xu, Ph.D. student, Florida International University
 - Pinchao Liu, Ph.D. student, Florida International University
