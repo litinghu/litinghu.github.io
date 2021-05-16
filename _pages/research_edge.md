@@ -20,7 +20,7 @@ permalink: /research_edge/
 
 - Dr. Liting Hu, Assistant Professor, Virginia Tech
 
-### Students
+### Members
 
 - Pinchao Liu, Ph.D. student, Florida International University
 - Ulises Fernandez, B.S. student, Florida International University
