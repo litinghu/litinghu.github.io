@@ -18,7 +18,7 @@ permalink: /research_edge/
 
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigator
-- Dr. Liting Hu, Assistant Professor, Virginia Tech
+- [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
 
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
 Members

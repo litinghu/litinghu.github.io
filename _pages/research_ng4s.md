@@ -19,8 +19,8 @@ permalink: /research_ng4s/
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigator
 
-- Dr. Liting Hu, Assistant Professor, Virginia Tech
-- Dr. Dilma Da Silva, Professor, Texas A&M University
+- [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
+- [Dr. Dilma Da Silva](https://people.engr.tamu.edu/dilma/index.html), Professor, Texas A&M University
 
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
 Members
