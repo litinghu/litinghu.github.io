@@ -27,8 +27,8 @@ permalink: /research_edge/
 
 ## Publications
 
-- <b>[USENIX ATC'21]</b> Pinchao Liu\*, Dilma Da Silva, Liting Hu, \"DART: A Scalable and Adaptive Edge Stream Processing Engine\", in <em>Proceedings of the 2021 USENIX Annual Technical Conference (USENIX ATC'21)</em>, July 2021. Acceptance Rate: 64/341 = 18.8%.
-- <b>[Middleware'20]</b> Hailu Xu\*, Pinchao Liu\*, Susana Cruz-Diaz\*, Dilma Da Silva, Liting Hu, \"SR3: Customizable Recovery for Stateful Stream Processing Systems\", in <em>Proceedings of ACM/IFIP Middleware 2020 (Middleware'20)</em>, December 2020.
+- <b>[USENIX ATC'21]</b> Pinchao Liu\*, Dilma Da Silva, Liting Hu, [\"DART: A Scalable and Adaptive Edge Stream Processing Engine\"](), in <em>Proceedings of the 2021 USENIX Annual Technical Conference (USENIX ATC'21)</em>, July 2021. Acceptance Rate: 64/341 = 18.8%.
+- <b>[Middleware'20]</b> Hailu Xu\*, Pinchao Liu\*, Susana Cruz-Diaz\*, Dilma Da Silva, Liting Hu, [\"SR3: Customizable Recovery for Stateful Stream Processing Systems\"](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf), in <em>Proceedings of ACM/IFIP Middleware 2020 (Middleware'20)</em>, December 2020.
 
 ## Presentations
 
