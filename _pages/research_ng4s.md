@@ -16,12 +16,14 @@ permalink: /research_ng4s/
 
 ## Participants
 
-<h3 style="text-indent: 0.5em">Principal Investigator</h3>
+<!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
+Principal Investigator
 
 - Dr. Liting Hu, Assistant Professor, Virginia Tech
 - Dr. Dilma Da Silva, Professor, Texas A&M University
 
-<h3 style="text-indent: 0.5em">Members</h3>
+<!-- <h3 style="text-indent: 0.5em">Members</h3> -->
+Members
 
 - Hailu Xu, Ph.D. student, Florida International University
 - Pinchao Liu, Ph.D. student, Florida International University
@@ -31,10 +33,10 @@ permalink: /research_ng4s/
 
 ## Publications
 
-- <b>[USENIX ATC'21]</b> Pinchao Liu\*, Dilma Da Silva, Liting Hu, [\"DART: A Scalable and Adaptive Edge Stream Processing Engine\"](), in <em>Proceedings of the 2021 USENIX Annual Technical Conference (USENIX ATC'21)</em>, July 2021. Acceptance Rate: 64/341 = 18.8%.
-- <b>[Middleware'20]</b> Hailu Xu*, Pinchao Liu*, Susana Cruz-Diaz*, Dilma Da Silva, Liting Hu, [\"SR3: Customizable Recovery for Stateful Stream Processing Systems\"](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf), in <em>Proceedings of ACM/IFIP Middleware 2020 (Middleware'20)</em>, December 2020.
-- <b>[IPDPS'20]</b> Pinchao Liu\*, Hailu Xu\*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, Liting Hu, [\"FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications\"](https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf), in <em>Proceedings of the 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS'20)</em>, May 2020.
-- <b>[Cloud'19]</b> Hailu Xu\*, Pinchao Liu\*, Boyuan Guan\*, Liting Hu, [\"Exploiting the Spam Correlations in Scalable Online Social Spam Detection\"](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf), in <em>Proceedings of the 2019 International Conference on Cloud Computing (Cloud'19)</em>, June 2019. Best Student Paper Award
+- <b>[USENIX ATC'21]</b> Pinchao Liu\*, Dilma Da Silva, **Liting Hu**, \"[DART: A Scalable and Adaptive Edge Stream Processing Engine]()\", in <em>Proceedings of the 2021 USENIX Annual Technical Conference (USENIX ATC'21)</em>, July 2021. Acceptance Rate: 64/341 = 18.8%.
+- <b>[Middleware'20]</b> Hailu Xu*, Pinchao Liu*, Susana Cruz-Diaz*, Dilma Da Silva, **Liting Hu**, \"[SR3: Customizable Recovery for Stateful Stream Processing Systems](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf)\", in <em>Proceedings of ACM/IFIP Middleware 2020 (Middleware'20)</em>, December 2020.
+- <b>[IPDPS'20]</b> Pinchao Liu\*, Hailu Xu\*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, **Liting Hu**, \"[FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications](https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf)\", in <em>Proceedings of the 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS'20)</em>, May 2020.
+- <b>[Cloud'19]</b> Hailu Xu\*, Pinchao Liu\*, Boyuan Guan\*, **Liting Hu**, \"[Exploiting the Spam Correlations in Scalable Online Social Spam Detection](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf)\", in <em>Proceedings of the 2019 International Conference on Cloud Computing (Cloud'19)</em>, June 2019. Best Student Paper Award
 
 ## Presentations
 
@@ -44,19 +46,19 @@ IPDPS'20 <br />
 
 Pinchao Liu, SR3: Customizable Recovery for Stateful Stream Processing Systems <br />
 Middleware'20 <br />
-[Slides](https://drive.google.com/file/d/10UH2LZ-ZnzRZRunomaLmW0WXol24bMGD/view?usp=sharing) <br />
+[[Slides](https://drive.google.com/file/d/10UH2LZ-ZnzRZRunomaLmW0WXol24bMGD/view?usp=sharing)] <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
 
 ## Source Code
 
-- DART: A Scalable and Adaptive Edge Stream Processing Engine [[Source Code]](https://github.com/fiu-elves/DART)
-- SR3: Customizable Recovery for Stateful Stream Processing Systems [[Source Code]](https://github.com/fiu-elves/SR3)
-- FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications [[Source Code]](https://github.com/fiu-elves/FP4S)
+- DART: A Scalable and Adaptive Edge Stream Processing Engine [[GitHub]()]
+- SR3: Customizable Recovery for Stateful Stream Processing Systems [[GitHub](https://github.com/fiu-elves/SR3)]
+- FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications [[GitHub](https://github.com/fiu-elves/FP4S)]
 
 ## Outreach
 
 Curriculum Development Activities
-- Course 6913: Advanced Topics in Information Processing. [[Video Playlist Link]](https://www.youtube.com/watch?v=fhN3szbOr9E&list=PLGtMEQgQy8UZvqmsXzeJ43Xzm_ItCQekE)
+- Course 6913: Advanced Topics in Information Processing [[Video Playlist](https://www.youtube.com/watch?v=fhN3szbOr9E&list=PLGtMEQgQy8UZvqmsXzeJ43Xzm_ItCQekE)]
 
 Stream Processing Tutorials
 - [Apache Storm](https://youtu.be/-8XGburfkuY)
@@ -66,4 +68,4 @@ Stream Processing Tutorials
 
 ## Acknowledgement
 
-<p>This material is based upon work supported by the National Science Foundation SPX award  NSF-SPX-1919126 and  NSF-SPX-1919181.</p>
+<p>This material is based upon work supported by the National Science Foundation under grants NSF-SPX-1919126 and NSF-SPX-1919181.</p>
