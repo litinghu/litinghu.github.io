@@ -38,9 +38,9 @@ permalink: /research_ng4s/
 
 ## Presentations
 
-FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications <br />
+<!-- FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications <br />
 IPDPS'20 <br />
-[Slides](https://drive.google.com/file/d/1Lzy5qzZhHiE1OXT2GsDFdxe6D0BPRJxF/view?usp=sharing) <br />
+[Slides](https://drive.google.com/file/d/1Lzy5qzZhHiE1OXT2GsDFdxe6D0BPRJxF/view?usp=sharing) <br /> -->
 
 Pinchao Liu, SR3: Customizable Recovery for Stateful Stream Processing Systems <br />
 Middleware'20 <br />
@@ -50,6 +50,8 @@ Middleware'20 <br />
 ## Source Code
 
 - DART: A Scalable and Adaptive Edge Stream Processing Engine [[Source Code]](https://github.com/fiu-elves/DART)
+- SR3: Customizable Recovery for Stateful Stream Processing Systems [[Source Code]](https://github.com/fiu-elves/SR3)
+- FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications [[Source Code]](https://github.com/fiu-elves/FP4S)
 
 ## Outreach
 
