@@ -16,11 +16,11 @@ permalink: /research_edge/
 
 ## Participants
 
-### Principal Investigator
+<h3 style="text-indent: 0.5em">Principal Investigator</h3>
 
 - Dr. Liting Hu, Assistant Professor, Virginia Tech
 
-### Members
+<h3 style="text-indent: 0.5em">Members</h3>
 
 - Pinchao Liu, Ph.D. student, Florida International University
 - Ulises Fernandez, B.S. student, Florida International University
