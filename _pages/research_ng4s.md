@@ -40,12 +40,12 @@ permalink: /research_ng4s/
 
 FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications <br />
 IPDPS'20 <br />
-[Slides]() <br />
+[Slides](https://drive.google.com/file/d/1Lzy5qzZhHiE1OXT2GsDFdxe6D0BPRJxF/view?usp=sharing) <br />
 
 Pinchao Liu, SR3: Customizable Recovery for Stateful Stream Processing Systems <br />
 Middleware'20 <br />
 [Slides](https://drive.google.com/file/d/10UH2LZ-ZnzRZRunomaLmW0WXol24bMGD/view?usp=sharing) <br />
-<iframe width="560" height="315" src="https://youtu.be/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
 
 ## Source Code
 
