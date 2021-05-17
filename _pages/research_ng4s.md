@@ -26,10 +26,10 @@ Principal Investigator
 Members
 
 - Hailu Xu, Ph.D. student-graduated, now tenure-track Assistant Professor of Computer Science at California State University, Long Beach
-- Pinchao Liu, Ph.D. student, Florida International University
+- Pinchao Liu, Ph.D. student-graduated, now Research Scientist at Facebook
 - Boyuan Guan, Ph.D. student, Florida International University
 - Susana Cruz-Diaz, B.S. student-graduated, now Software Engineer Associate at Lockheed Martin
-- Ulises Fernandez, B.S. student, 
+- Ulises Fernandez, B.S. student, supported by NSF REU program
 
 ## Publications
 

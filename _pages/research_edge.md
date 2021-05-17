@@ -22,8 +22,8 @@ Principal Investigator
 
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
 Members
-- Pinchao Liu, Ph.D. student, Florida International University
-- Ulises Fernandez, B.S. student, Florida International University
+- Pinchao Liu, Ph.D. student-graduated, now Research Scientist at Facebook
+- Ulises Fernandez, B.S. student, supported by NSF REU program
 
 ## Publications
 
