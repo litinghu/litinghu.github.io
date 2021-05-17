@@ -49,7 +49,7 @@ IPDPS'20 <br />
 "></iframe>
 <p style="
     width: 480px;
-    margin-top: 3px;
+    margin-top: 6px;
 ">Pinchao Liu, SR3: Customizable Recovery for Stateful Stream Processing Systems <br>
 Middleware’20 <br>
 [<a href="https://drive.google.com/file/d/10UH2LZ-ZnzRZRunomaLmW0WXol24bMGD/view?usp=sharing">Slides</a>] <br></p>
