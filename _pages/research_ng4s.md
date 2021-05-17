@@ -49,11 +49,11 @@ Middleware'20 <br />
 [[Slides](https://drive.google.com/file/d/10UH2LZ-ZnzRZRunomaLmW0WXol24bMGD/view?usp=sharing)] <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
 
-## Source Code
+<!-- ## Source Code
 
 - DART: A Scalable and Adaptive Edge Stream Processing Engine [[GitHub]()]
 - SR3: Customizable Recovery for Stateful Stream Processing Systems [[GitHub](https://github.com/fiu-elves/SR3)]
-- FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications [[GitHub](https://github.com/fiu-elves/FP4S)]
+- FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications [[GitHub](https://github.com/fiu-elves/FP4S)] -->
 
 ## Outreach
 
