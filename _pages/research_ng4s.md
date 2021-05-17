@@ -61,9 +61,9 @@ Curriculum Development Activities
 - Course 6913: Advanced Topics in Information Processing [[Video Playlist](https://www.youtube.com/watch?v=fhN3szbOr9E&list=PLGtMEQgQy8UZvqmsXzeJ43Xzm_ItCQekE)]
 
 Stream Processing Tutorials
-- [Apache Storm](https://youtu.be/-8XGburfkuY)
-- [Apache Flink](https://youtu.be/wLJHhZs4bTU)
-- [Apache Storm Encoding](https://youtu.be/Yc-YfVANAeY)
+- Apache Storm Tutorial [[Video](https://youtu.be/-8XGburfkuY)]
+- Apache Flink Tutorial [[Video](https://youtu.be/wLJHhZs4bTU)]
+- Encryption of Datasets in Storm [[Video](https://youtu.be/Yc-YfVANAeY)]
 
 
 ## Acknowledgement
