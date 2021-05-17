@@ -17,7 +17,7 @@ permalink: /research_ng4s/
 ## Participants
 
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
-Principal Investigator
+Principal Investigators
 
 - [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
 - [Dr. Dilma Da Silva](https://people.engr.tamu.edu/dilma/index.html), Professor, Texas A&M University
@@ -45,9 +45,11 @@ IPDPS'20 <br />
 [Slides](https://drive.google.com/file/d/1Lzy5qzZhHiE1OXT2GsDFdxe6D0BPRJxF/view?usp=sharing) <br /> -->
 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
-Pinchao Liu, SR3: Customizable Recovery for Stateful Stream Processing Systems <br />
-Middleware'20 <br />
-[[Slides](https://drive.google.com/file/d/10UH2LZ-ZnzRZRunomaLmW0WXol24bMGD/view?usp=sharing)] <br />
+<p style="
+    margin-top: 7px;
+">Pinchao Liu, SR3: Customizable Recovery for Stateful Stream Processing Systems <br>
+Middleware’20 <br>
+[<a href="https://drive.google.com/file/d/10UH2LZ-ZnzRZRunomaLmW0WXol24bMGD/view?usp=sharing">Slides</a>] <br></p>
 
 <!-- ## Source Code
 

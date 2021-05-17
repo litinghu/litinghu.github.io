@@ -20,14 +20,14 @@ Principal Investigator
 
 Members
 
-- Hailu Xu, Ph.D. student, Florida International University
-- Pinchao Liu, Ph.D. student, Florida International University
+- Hailu Xu, Ph.D. student-graduated, now tenure-track Assistant Professor of Computer Science at California State University, Long Beach
+- Pinchao Liu, Ph.D. student-graduated, now Research Scientist at Facebook
 - Boyuan Guan, Ph.D. student, Florida International University
-- William Escudero, B.S. student, Florida International University
-- Ulises Fernandez, B.S. student, Florida International University
+- William Escudero, B.S. student-graduated, now Software Engineer at JPMorgan Chase & Co
+- Ulises Fernandez, B.S. student, supported by NSF REU program
 
 ## Publications
-- <b>[Cloud\'19]</b> Hailu Xu\*, Pinchao Liu\*, Boyuan Guan\*, **Liting Hu**, \"[Exploiting the Spam Correlations in Scalable Online Social Spam Detection](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf)\", in <em>Proceedings of the 2019 International Conference on Cloud Computing (Cloud\'19)</em>, San Diego, CA, June 2019. Best Student Paper Award
+- <b>[Cloud\'19]</b> Hailu Xu\*, Pinchao Liu\*, Boyuan Guan\*, **Liting Hu**, \"[Exploiting the Spam Correlations in Scalable Online Social Spam Detection](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf)\", in <em>Proceedings of the 2019 International Conference on Cloud Computing (Cloud\'19)</em>, San Diego, CA, June 2019. **Best Student Paper Award**
 - <b>[Cloud\'18]</b> Hailu Xu\*, Pinchao Liu\*, Yao Xiao, Wentao Wang, Jai Dayal, Qingyang Wang, Yuzhe Tang, **Liting Hu** \"[Oases: An Online Scalable Spam Detection System for Social Networks](https://people.cs.vt.edu/~litinghu/doc/oases.pdf)\", in <em>Proceedings of the 11th International Conference on Cloud Computing (Cloud\'18)</em>, San Francisco, CA, July 2018.
 - <b>[BSMDMA\'18]</b> Hailu Xu\*, Boyuan Guan\*, Pinchao Liu\*, William Escudero\*, **Liting Hu** \"[Harnessing the Nature of Spam in Scalable Online Social Spam Detection](https://people.cs.vt.edu/~litinghu/doc/sifter.pdf)\", in <em>the 2018 International Workshop on Big Social Media Data Management and Analysis, in conjunction with IEEE Big Data (BSMDMA\'18)</em>, Seattle, WA, December 2018.
 
