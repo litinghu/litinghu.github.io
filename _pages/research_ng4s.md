@@ -25,11 +25,11 @@ Principal Investigator
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
 Members
 
-- Hailu Xu, Ph.D. student, Florida International University
+- Hailu Xu, Ph.D. student-graduated, now tenure-track Assistant Professor of Computer Science at California State University, Long Beach
 - Pinchao Liu, Ph.D. student, Florida International University
 - Boyuan Guan, Ph.D. student, Florida International University
-- Susana Cruz-Diaz, B.S. student, Florida International University
-- Ulises Fernandez, B.S. student, Florida International University
+- Susana Cruz-Diaz, B.S. student-graduated, now Software Engineer Associate at Lockheed Martin
+- Ulises Fernandez, B.S. student, 
 
 ## Publications
 
@@ -44,10 +44,10 @@ Members
 IPDPS'20 <br />
 [Slides](https://drive.google.com/file/d/1Lzy5qzZhHiE1OXT2GsDFdxe6D0BPRJxF/view?usp=sharing) <br /> -->
 
+<iframe width="320" height="180" src="https://www.youtube.com/embed/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
 Pinchao Liu, SR3: Customizable Recovery for Stateful Stream Processing Systems <br />
 Middleware'20 <br />
 [[Slides](https://drive.google.com/file/d/10UH2LZ-ZnzRZRunomaLmW0WXol24bMGD/view?usp=sharing)] <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
 
 <!-- ## Source Code
 
