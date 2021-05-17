@@ -23,6 +23,7 @@ Principal Investigator
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
 Members
 - Pinchao Liu, Ph.D. student-graduated, now Research Scientist at Facebook
+- Susana Cruz-Diaz, B.S. student-graduated, now Software Engineer Associate at Lockheed Martin
 - Ulises Fernandez, B.S. student, supported by NSF REU program
 
 ## Publications
