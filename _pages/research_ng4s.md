@@ -44,7 +44,7 @@ Members
 IPDPS'20 <br />
 [Slides](https://drive.google.com/file/d/1Lzy5qzZhHiE1OXT2GsDFdxe6D0BPRJxF/view?usp=sharing) <br /> -->
 
-<iframe width="320" height="180" src="https://www.youtube.com/embed/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/4ElTxy9YVFE" frameborder="0" allowfullscreen></iframe>
 <p style="
     margin-top: 7px;
 ">Pinchao Liu, SR3: Customizable Recovery for Stateful Stream Processing Systems <br>
