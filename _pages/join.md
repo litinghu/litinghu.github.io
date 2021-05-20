@@ -17,7 +17,7 @@ If you are interested in working with us as a Ph.D. student or postdoc, please f
 ### Master projects for Virginia Tech students
 
 If you are a Master student at Virginia Tech looking for a Master project, contact me (or any group member) per email or stop by my office.
-
+<br />
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_winter.jpeg" width="60%" >
 </figure>
