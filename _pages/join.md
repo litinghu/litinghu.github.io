@@ -1,6 +1,6 @@
 ---
 title: "Elves Lab - Join"
-layout: piclay
+layout: join
 excerpt: "Elves Lab -- Join"
 permalink: /join/
 ---
