@@ -19,6 +19,17 @@ If you are interested in working with us as a Ph.D. student or postdoc, please f
 If you are a Master student at Virginia Tech looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_spring.jpg" width="60%" >
 </figure>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_summer.jpg" width="60%" >
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_fall.jpg" width="60%" >
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_winter.jpg" width="60%" >
+</figure>
