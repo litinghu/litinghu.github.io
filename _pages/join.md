@@ -12,24 +12,12 @@ Our lab aims to train students towards becoming first-class system researchers a
 
 ### Applications for Ph.D. and Postdoc positions
 
-If you are interested in working with us as a Ph.D. student or postdoc, please feel free to contact me. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. Important: please insert “PhD Application – Your Name” or “Postdoc Application – Your Name” in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with us as a Ph.D. student or postdoc, please feel free to contact me. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. Important: please insert \"PhD Application – Your Name\" or \"Postdoc Application – Your Name\" in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 ### Master projects for Virginia Tech students
 
 If you are a Master student at Virginia Tech looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_spring.jpg" width="60%" >
-</figure>
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_summer.jpg" width="60%" >
-</figure>
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_fall.jpg" width="60%" >
-</figure>
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_winter.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_winter.jpeg" width="60%" >
 </figure>
