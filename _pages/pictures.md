@@ -5,14 +5,18 @@ excerpt: "Allan Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+# Open Positions
 
+Our lab aims to train students towards becoming first-class system researchers and system builders. If you enjoy building systems, I would love to have you join the lab.
+**We are always looking for new group members with passion, talent, and grit!**
 
-## Leiden
+# Applications for Ph.D. and Postdoc positions
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
+If you are interested in working with us as a Ph.D. student or postdoc, please feel free to contact me. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. Important: please insert “PhD Application – Your Name” or “Postdoc Application – Your Name” in the subject line. If you are applying to a specific advertisement, note this in your email.
+
+# Master projects for Virginia Tech students
+
+If you are a Master student at Virginia Tech looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
