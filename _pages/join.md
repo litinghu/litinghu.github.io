@@ -7,7 +7,7 @@ permalink: /join/
 
 # Open positions
 
-Our lab aims to train students towards becoming first-class system researchers and system builders. If you enjoy building systems, I would love to have you join the lab. [See openings](https://people.cs.vt.edu/~litinghu/). <br /><br />
+Our lab aims to train students towards becoming first-class system researchers and system builders. If you enjoy building systems, I would love to have you join the lab. [See openings](https://people.cs.vt.edu/~litinghu/). <br />
 **We are always looking for new group members with passion, talent, and grit!** 
 
 ### Applications for Ph.D. and Postdoc positions
