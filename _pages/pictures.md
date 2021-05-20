@@ -18,7 +18,7 @@ If you are interested in working with us as a Ph.D. student or postdoc, please f
 
 If you are a Master student at Virginia Tech looking for a Master project, contact me (or any group member) per email or stop by my office.
 
-#### Gallery
+# Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
