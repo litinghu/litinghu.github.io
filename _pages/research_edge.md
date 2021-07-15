@@ -32,8 +32,13 @@ Members
 - <b>[Middleware\'20]</b> Hailu Xu\*, Pinchao Liu\*, Susana Cruz-Diaz\*, Dilma Da Silva, **Liting Hu**, \"[SR3: Customizable Recovery for Stateful Stream Processing Systems](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf)\", in <em>Proceedings of ACM/IFIP Middleware 2020 (Middleware\'20)</em>, virtual event, December 2020.
 
 ## Presentations
-
-Dr. Liting Hu, DART: A Scalable and Adaptive Edge Stream Processing Engine <br />
+<iframe width="480" height="270" src="https://www.youtube.com/embed/bB7xF32ilwg" frameborder="0" allowfullscreen style="
+    margin-top: 7px;
+"></iframe>
+<p style="
+    width: 480px;
+    margin-top: 6px;
+">Dr. Liting Hu, DART: A Scalable and Adaptive Edge Stream Processing Engine <br />
 USXNIX ATC’21 <br />
 [[Slides]()]
 
