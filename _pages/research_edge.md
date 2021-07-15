@@ -38,7 +38,7 @@ Members
 <p style="
     width: 480px;
     margin-top: 6px;
-">Dr. Liting Hu, DART: A Scalable and Adaptive Edge Stream Processing Engine <br />
+">Dr. Liting Hu, DART: A Scalable and Adaptive Edge Stream Processing Engine <br /></p>
 USXNIX ATC’21 <br />
 [[Slides]()]
 
