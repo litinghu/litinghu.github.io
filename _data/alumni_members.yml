@@ -9,14 +9,14 @@
   education3:
   education4:
 
-- name: Ulises Fernandez
+- name: Ulises Fernandez (B.S. 2021)
   photo: uli.png
-  duration: Supported by NSF REU program 
+  duration: Now Software Engineer at Deloitte
   info: 
   email: 
   number_educ: 1
-  education1: B.S. in Computer Science, Florida International University
-  education2:
+  education1: Supported by NSF REU program
+  education2: B.S. in Computer Science, Florida International University
   education3:
   education4:
 
