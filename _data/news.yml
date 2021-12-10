@@ -1,4 +1,10 @@
 
+- date: "December 2021:"
+  headline: "Dr. Liting Hu is grateful to receive the Meta (Facebook) Faculty Research Award."
+
+- date: "October 2021:"
+  headline: "Welcome Sha Li, Taehwan Kim, Manoj Prabhakar Paidiparthy to join our lab."
+
 - date: "April 2021:"
   headline: "<b>Our work on edge stream processing systems got accepted to USENIX ATC 2021!</b>"
 
@@ -6,28 +12,28 @@
   headline: "Our lab's Ph.D. student Pinchao Liu graduates and will join Facebook as a research scientist. Congratulations, Pinchao!"
 
 - date: "December 2020:"
-  headline: "Dr. Liting Hu received the FIU Faculty Award for Excellence in Fundamental Research at School of Computing and Information Sciences."
+  headline: "Dr. Liting Hu is grateful to receive the FIU Faculty Award for Excellence in Fundamental Research."
 
 - date: "September 2020:"
   headline: "Our work on failure recovery mechanism for stream processing systems got accepted to ACM/IFIP Middleware 2020."
 
 - date: "August 2020:"
-  headline: "Our research on big data systems is featured on <a href='https://news.fiu.edu/2020/computing-professor-designs-stream-processing-system-for-iot-applications'>FIU News</a>."
+  headline: "Our research on stream processing systems is featured on <a href='https://news.fiu.edu/2020/computing-professor-designs-stream-processing-system-for-iot-applications'>FIU News</a>."
 
 - date: "June 2020:"
-  headline: "<b>Dr. Liting Hu received the NSF CAREER Award from the Computer Systems Research program in the Division of Computer and Network Systems! Thanks for NSF’s tremendous support!</b>"
+  headline: "<b>Dr. Liting Hu is grateful to receive the NSF CAREER Award from the Computer Systems Research program in the Division of Computer and Network Systems! Thanks for NSF’s tremendous support!</b>"
 
 - date: "April 2020:"
   headline: "Our lab's Ph.D. student Hailu Xu graduates and joins California State University Long Beach as a tenure-track assistant professor. Congratulations, Hailu!"
 
 - date: "February 2020:"
-  headline: "A lead-PI grant is awarded from <a href='https://cyberflorida.org/programs/seed/'>Cyber Florida Collaborative Seed Award Program</a> to support our research on spam detection in online social networks ($75K)."
+  headline: ": I am grateful to receive the <a href='https://cyberflorida.org/programs/seed/'>Cyber Florida Collaborative Seed Award</a>."
 
 - date: "December 2019:"
   headline: "Our work on stateful stream processing systems got accepted to <a href='http://www.ipdps.org/ipdps2020/2020-call-for-papers.html'>IPDPS 2020</a>."
 
 - date: "July 2019:"
-  headline: "A lead-PI grant is awarded from <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919126&HistoricalAwards=false'>NSF SPX</a> to support our research on stateful stream processing ($550K). Thank you NSF!"
+  headline: "<b>A lead-PI grant is awarded from <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919126&HistoricalAwards=false'>NSF SPX</a> to support our research on stateful stream processing ($550K). Thank you NSF!</b>"
 
 - date: "June 2019:"
   headline: "A co-PI grant is awarded from LYRASIS to support my research on AI ($25K)."
