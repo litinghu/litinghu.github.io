@@ -48,11 +48,11 @@ Our lab aims to train students towards becoming first-class system researchers a
 We are grateful to the following federal agencies and Institutes for supporting our research efforts.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vt.jpeg" style="width: 110px; margin-left: 12px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vt.jpeg" style="width: 110px; margin-left: 20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 120px; margin-left: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.svg" style="width: 107px; margin-left: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/meta.png" style="width: 120px; margin-left: 10px"><br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cf.png" style="width: 120px; margin-left: 12px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/meta.png" style="width: 140px; margin-left: 10px"><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cf.png" style="width: 130px; margin-left: 20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lyrasis.png" style="width: 102px; margin-left: 10px">
 
 </figure>
