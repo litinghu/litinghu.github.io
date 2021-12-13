@@ -53,4 +53,5 @@ We are grateful to the following federal agencies and Institutes for supporting 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.svg" style="width: 107px; margin-left: 2px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cf.png" style="width: 140px; margin-left: 6px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lyrasis.png" style="width: 112px; margin-left: 3px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/meta.png" style="width: 112px; margin-left: 3px">
 </figure>
