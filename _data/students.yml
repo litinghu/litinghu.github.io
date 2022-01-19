@@ -8,6 +8,16 @@
 #  education3:
 #  education4:
 
+- name: Cheng-Wei Ching (Summer 2022 - )
+  photo: wei.jpg
+  info: https://sites.google.com/view/cheng-wei-ching
+  email:
+  number_educ: 3
+  education1: "Ph.D. Student in Computer Science, Virginia Tech (Advisor: Liting Hu)"
+  education2: "M.S. in Computer Science and Information Engineering, National Chung Cheng University (Advisor: Jian-Jhih Kuo)"
+  education3: B.A. in Spanish, Tamkang University
+
+
 - name: Sha Li (Spring 2022 - )
   photo: sha.jpg
   info: https://csshali.github.io/
