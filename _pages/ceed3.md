@@ -6,11 +6,6 @@ sitemap: false
 permalink: /ceed3/
 ---
 
-{% if post.content.size != post.excerpt.size  %}
-    <a href="{{ post.url }}">Read more</a>
-{% endif %}
-
-
 # Workshop Description:
 ## LED Lights Control
 
@@ -20,5 +15,5 @@ permalink: /ceed3/
 
 <p>The second part of this workshop has students combine an RGB LED and an IR sender/receiver to create a remote control LED system. The students then dive into creating their own LED blinking patterns in code, thus programming their LEDs!</p>
 
-[[Slides](https://drive.google.com/file/d/1mfL5tqGhLLyTTh-AtMYbi-I4nDbmtq1W/view?usp=sharing)]
-[[Gallery](https://drive.google.com/drive/folders/1TJS7UoIgjKbNI8eVH0rXKOKkp-4eSO5M?usp=sharing)]
+[//]: <[[Slides](https://drive.google.com/file/d/1mfL5tqGhLLyTTh-AtMYbi-I4nDbmtq1W/view?usp=sharing)]>
+[//]: <[[Gallery](https://drive.google.com/drive/folders/1TJS7UoIgjKbNI8eVH0rXKOKkp-4eSO5M?usp=sharing)]>
