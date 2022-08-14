@@ -24,3 +24,4 @@ ered, and a PIR motion sensor used to detect motion. By the end of this two-hour
 programming, how PIR motion sensing is used in everyday life, and how they can use PIR motion sensing in the future Arduino projects!</p>
 
 [[Slides](https://drive.google.com/file/d/1DV-_Qms75S9ZPZv8bcPJ9gGfwYWESp6a/view?usp=sharing)]
+[[Gallery](https://drive.google.com/drive/folders/1uefC-yOGTurvYMrYkEM5rtqecMoLY5eD?usp=sharing)]
