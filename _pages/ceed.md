@@ -23,4 +23,4 @@ capable of detecting motion and lighting up a light! After each student complete
 ered, and a PIR motion sensor used to detect motion. By the end of this two-hour workshop, students will have a deep understanding of PIR motion sensing and C/C++
 programming, how PIR motion sensing is used in everyday life, and how they can use PIR motion sensing in the future Arduino projects!</p>
 
-[[Slides](https://www.dropbox.com/home/CEED/workshop_7_5_2022?preview=Sound+the+Alarm%21+-+Arduino+Workshop+%287_5%29.pptx)]
+[[Slides](https://drive.google.com/file/d/1DV-_Qms75S9ZPZv8bcPJ9gGfwYWESp6a/view?usp=sharing)]
