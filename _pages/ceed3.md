@@ -16,7 +16,7 @@ permalink: /ceed3/
 <p>The larger project focuses on combining an RGB LED and an IR sender/receiver to create a remote control LED system. The students then dive into creating their own LED blinking patterns in code, thus programming their LEDs! </p>
 
 
-## Organizer(Elves Lab teamed up with VT’s CEED)
+## Organizer (Elves Lab teamed up with VT's CEED)
 
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigator
