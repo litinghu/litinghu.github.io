@@ -34,7 +34,7 @@ Members
 
 ## Acknowledgement
 
-<p>This material is based upon work supported by the National Science Foundation CAREER award NSF-CAREER-2205677.</p>
+<p>This activity is supported by the National Science Foundation CAREER award NSF-CAREER-2205677.</p>
 
 [[Slides](https://drive.google.com/file/d/1DV-_Qms75S9ZPZv8bcPJ9gGfwYWESp6a/view?usp=sharing)]
 [[Gallery](https://drive.google.com/drive/folders/1uefC-yOGTurvYMrYkEM5rtqecMoLY5eD?usp=sharing)]
