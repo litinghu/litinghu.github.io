@@ -39,15 +39,15 @@
     url: https://drive.google.com/drive/folders/1A-Finq8c02Cdjh7T9ELeDjkUh83GwAjP?usp=sharing
     display: Gallery
 
-- title: "C-Tech^2 Summer Program --- Computer Systems Programming Workshop “LED lights”"
+- title: C-Tech<sup>2</sup> Summer Program --- Computer Systems Programming Workshop "LED lights"
   wellheight: 370
   image: frontpage.png
-  description: We introduced computer systems programming to K12 students. The goal of the workshop is to teach students to learn how to control LED lights with Arduino using the C/C++ programming language. 
+  description: We introduced computer systems programming to K12 Black/African American students and first-generation college students. The goal of the workshop is to teach students to build a remote control light-emitting diode (LED) system in Arduino using the C/C++ programming language. 
 
   participants: we attracted 31 students from 11th and 12th grade to attend the workshop. All of them were Black/African American.(Need Change)
-  organizers: Elves Lab teamed up with VT’s Center for the Enhancement of Engineering Diversity(CEED)
-  location: Virginia Tech’s main campus in Blacksburg, VA
-  date: July 2022
+  organizers: Elves Lab teamed up with VT's Center for the Enhancement of Engineering Diversity(CEED)
+  location: Virginia Tech's main campus in Blacksburg, VA
+  date: July 26 <sup>th</sup>, 2022
   link:
     url: https://litinghu.github.io/ceed3/
     display:  Read More
