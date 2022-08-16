@@ -26,9 +26,9 @@ permalink: /Outreach/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="31%" style="float: left; margin-right: 30px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 3%;" height="1100" />
   <p>{{ publi.description }} <a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></p>
   <p><b>Organizer: </b>{{ publi.organizers }}</p>
+  <p><b>Participants: </b>{{ publi.participants }}</p>
   <p><b>Location: </b>{{ publi.location}}</p>
   <p><b>Date: </b>{{ publi.date }}</p>
-  <p><b>Participants: </b>{{ publi.participants }}</p>
   <p><a [href="{{ publi.slides.url }}" target="_blank">{{ publi.slides.display }}]</a>   &emsp;<a [href="{{ publi.gallery.url }}" target="_blank">{{ publi.gallery.display }}]</a></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
