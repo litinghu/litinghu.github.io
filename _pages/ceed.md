@@ -9,7 +9,7 @@ permalink: /ceed/
 # Workshop Description
 ## Passive Infrared Motion Sensing Alarm
 
-<p>Have you ever thought about how alarm systems detect motion? The answer is passive infrared(PIR) motion sensors. In a nutshell, PIR motion sensors work by determining when a heat source moves within a specific area. When that heat source moves, the PIR motion sensor signals that motion was detected. This workshop explores passive infrared through an interactive experience where students build an alarm system that is triggered by movement!</p>
+<p>Have you ever thought about how alarm systems detect motion? The answer is passive infrared (PIR) motion sensors. In a nutshell, PIR motion sensors work by determining when a heat source moves within a specific area. When that heat source moves, the PIR motion sensor signals that motion was detected. This workshop explores passive infrared through an interactive experience where students build an alarm system that is triggered by movement!</p>
 
 <p>The first part of this workshop focuses on teaching students how PIR sensors work and how an Arduino can interface with a PIR sensor to detect motion. Once students finish a short lesson on PIR sensing, they begin working on a mini-project in which they build an Arduino system
 capable of detecting motion and lighting up a light! After each student completes the mini-project, they move on to a larger project.</p>
@@ -18,7 +18,7 @@ capable of detecting motion and lighting up a light! After each student complete
 ered, and a PIR motion sensor used to detect motion. By the end of this two-hour workshop, students will have a deep understanding of PIR motion sensing and C/C++
 programming, how PIR motion sensing is used in everyday life, and how they can use PIR motion sensing in the future Arduino projects!</p>
 
-## Participants
+## Organizer(Elves Lab teamed up with VT’s CEED)
 
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigator
