@@ -18,15 +18,15 @@
   highlight: 1
   news2:
 
-- title: "C-Tech^2 Summer Program --- Computer Systems Programming Workshop “Proximity Sensor”"
+- title: C-Tech<sup>2</sup> Summer Program --- Computer Systems Programming Workshop "Proximity Sensor"
   wellheight: 370
-  image: frontpage.png
-  description: We introduced computer systems programming to K12 students. The goal of the workshop is to teach students to build a Proximity Sensor system in Arduino using the C/C++ programming language. 
+  image: frontpage1.png
+  description: We introduced computer systems programming to K12 Black/African American students and first-generation college students. The goal of the workshop is to teach students to build a proximity sensing system in Arduino using the C/C++ programming language. 
 
   participants: we attracted 32 students from 11th and 12th grade to attend the workshop. All of them were Black/African American.(Need Change)
-  organizers: Elves Lab teamed up with VT’s Center for the Enhancement of Engineering Diversity(CEED)
-  location: Virginia Tech’s main campus in Blacksburg, VA
-  date: July 2022
+  organizers: Elves Lab teamed up with VT's Center for the Enhancement of Engineering Diversity (CEED)
+  location: Virginia Tech's main campus in Blacksburg, VA
+  date: July 21<sup>st</sup>, 2022
   link:
     url: https://litinghu.github.io/ceed2/
     display:  Read More
@@ -36,7 +36,7 @@
     url: https://drive.google.com/file/d/1PwTfnQpffVkQgIfaMxS7sPgXW1j1K29O/view?usp=sharing
     display: Slides
   gallery: 
-    url: https://drive.google.com/file/d/1PwTfnQpffVkQgIfaMxS7sPgXW1j1K29O/view?usp=sharing
+    url: https://drive.google.com/file/d/124LxnZ6_19PL7EBQOczsbOsvxHsCpnk8/view?usp=sharing
     display: Gallery
 
 - title: "C-Tech^2 Summer Program --- Computer Systems Programming Workshop “LED lights”"
