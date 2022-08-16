@@ -18,5 +18,24 @@ capable of detecting motion and lighting up a light! After each student complete
 ered, and a PIR motion sensor used to detect motion. By the end of this two-hour workshop, students will have a deep understanding of PIR motion sensing and C/C++
 programming, how PIR motion sensing is used in everyday life, and how they can use PIR motion sensing in the future Arduino projects!</p>
 
+## Participants
+
+<!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
+Principal Investigator
+- [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
+
+<!-- <h3 style="text-indent: 0.5em">Members</h3> -->
+Members
+- Cheng-Wei Ching, Ph.D. student
+- Yinzhe Zhang, Ph.D. student
+- Brennan Hurst, B.S. student-graduated, supported by NSF REU program
+- Zi Huang, B.S. student
+- Dien Hu, B.S. student
+
+## Acknowledgement
+
+<p>This material is based upon work supported by the National Science Foundation CAREER award NSF-CAREER-1943071.</p>
+
 [[Slides](https://drive.google.com/file/d/1DV-_Qms75S9ZPZv8bcPJ9gGfwYWESp6a/view?usp=sharing)]
-[[Gallery](https://drive.google.com/drive/folders/1uefC-yOGTurvYMrYkEM5rtqecMoLY5eD?usp=sharing)
+[[Gallery](https://drive.google.com/drive/folders/1uefC-yOGTurvYMrYkEM5rtqecMoLY5eD?usp=sharing)]
+
