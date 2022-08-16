@@ -18,7 +18,7 @@ permalink: /ceed2/
 <p>By the end of this two-hour workshop, students will have a deep understanding of ultrasonic sensing and C/C++ programming, and how they can modify the code to do various things with the ultrasonic sensor and LED array!
 </p>
 
-## Organizer(Elves Lab teamed up with VT’s CEED)
+## Organizer (Elves Lab teamed up with VT's CEED)
 
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigator
