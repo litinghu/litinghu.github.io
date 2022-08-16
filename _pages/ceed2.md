@@ -37,4 +37,4 @@ Members
 <p>This activity is supported by the National Science Foundation CAREER award NSF-CAREER-2205677.</p>
 
 [[Slides](https://drive.google.com/file/d/1PwTfnQpffVkQgIfaMxS7sPgXW1j1K29O/view?usp=sharing)]
-[[Gallery](https://drive.google.com/file/d/124LxnZ6_19PL7EBQOczsbOsvxHsCpnk8/view?usp=sharing)]
+[[Gallery](https://drive.google.com/drive/folders/1A-Finq8c02Cdjh7T9ELeDjkUh83GwAjP?usp=sharing)]
