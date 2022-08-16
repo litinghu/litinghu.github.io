@@ -6,10 +6,6 @@ sitemap: false
 permalink: /Outreach/
 ---
 
-{% if post.content.size != post.excerpt.size  %}
-    <a href="{{ post.url }}">Read more</a>
-{% endif %}
-
 <h1 id="Outreach Activities" style="
     margin-bottom: 22px;
 ">Outreach Activities</h1>
