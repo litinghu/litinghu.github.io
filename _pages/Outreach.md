@@ -29,7 +29,7 @@ permalink: /Outreach/
   <p><b>Participants: </b>{{ publi.participants }}</p>
   <p><b>Location: </b>{{ publi.location}}</p>
   <p><b>Date: </b>{{ publi.date }}</p>
-  <p>[<a href="{{ publi.slides.url }}" target="_blank">{{ publi.slides.display }}</a>]   &ensp;[<a href="{{ publi.gallery.url }}" target="_blank">{{ publi.gallery.display }}</a>]</p>
+  <p>[<a href="{{ publi.slides.url }}" target="_blank">{{ publi.slides.display }}</a>] [<a href="{{ publi.gallery.url }}" target="_blank">{{ publi.gallery.display }}</a>]</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
