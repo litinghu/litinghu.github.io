@@ -24,7 +24,7 @@ permalink: /Outreach/
  <div class="well"  style="height: {{publi.wellheight}}px; margin-bottom: 40px;">
   <pubtit><a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a></pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="31%" style="float: left; margin-right: 30px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 3%;" height="1100" />
-  <p>{{ publi.description }} <a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></p>
+  <p><b>Summary of activity: </b>{{ publi.description }} <a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></p>
   <p><b>Organizer: </b>{{ publi.organizers }}</p>
   <p><b>Participants: </b>{{ publi.participants }}</p>
   <p><b>Location: </b>{{ publi.location}}</p>
