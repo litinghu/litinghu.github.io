@@ -6,7 +6,7 @@ sitemap: false
 permalink: /ceed/
 ---
 
-# Workshop Description:
+# Workshop Description
 ## Passive Infrared Motion Sensing Alarm
 
 <p>Have you ever thought about how alarm systems detect motion? The answer is passive infrared(PIR) motion sensors. In a nutshell, PIR motion sensors work by determining when a heat source moves within a specific area. When that heat source moves, the PIR motion sensor signals that motion was detected. This workshop explores passive infrared through an interactive experience where students build an alarm system that is triggered by movement!</p>
