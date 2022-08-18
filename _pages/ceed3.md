@@ -6,7 +6,7 @@ sitemap: false
 permalink: /ceed3/
 ---
 
-# Workshop Description:
+# Workshop Description
 ## LED Lights Control
 
 <p>Have you ever wondered how programmable light-emitting diode (LED) work? This workshop seeks to teach students how electronics can be combined to create a programmable LED with an infrared receiver (IR) receiver!</p> 
