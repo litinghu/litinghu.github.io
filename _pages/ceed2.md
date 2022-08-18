@@ -8,7 +8,7 @@ permalink: /ceed2/
 
 
 
-# Workshop Description:
+# Workshop Description
 ## Sensing With Proximity Sensor
 
 <p>Have you ever thought about how robots detect proximity to walls? The answer is ultrasonic sensing. Ultrasonic sensing devices emit sound waves, which bounce off of walls or obstacles, and count the amount of time it takes for those sound waves to return to the device. With this information, ultrasonic sensing devices can measure the distance to a wide range of objects regardless of shape, color, or surface texture!</p>
