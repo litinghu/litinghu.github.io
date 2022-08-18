@@ -19,7 +19,7 @@
   news2:
 
 - title: C-Tech<sup>2</sup> Summer Program --- Computer Systems Programming Workshop "Proximity Sensor"
-  wellheight: 370
+  wellheight: 390
   image: frontpage1.png
   description: We introduced computer systems programming to K12 Black/African American students and first-generation college students. The goal of the workshop is to teach students to build a proximity sensing system in Arduino using the C/C++ programming language. 
 
@@ -40,7 +40,7 @@
     display: Gallery
 
 - title: C-Tech<sup>2</sup> Summer Program --- Computer Systems Programming Workshop "LED lights"
-  wellheight: 370
+  wellheight: 390
   image: frontpage2.png
   description: We introduced computer systems programming to K12 Black/African American students and first-generation college students. The goal of the workshop is to teach students to build a remote control light-emitting diode (LED) system in Arduino using the C/C++ programming language. 
 
