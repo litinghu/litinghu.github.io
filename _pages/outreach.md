@@ -6,7 +6,7 @@ sitemap: false
 permalink: /outreach/
 ---
 
-<h1 id="Outreach Activities" style="
+<h1 id="outreach Activities" style="
     margin-bottom: 22px;
 ">Outreach Activities</h1>
 
