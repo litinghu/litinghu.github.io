@@ -3,7 +3,7 @@ title: "Elves Lab - Outreach"
 layout: textlay
 excerpt: "Elves Lab -- Outreach"
 sitemap: false
-permalink: /Outreach/
+permalink: /outreach/
 ---
 
 <h1 id="Outreach Activities" style="
