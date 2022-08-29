@@ -34,7 +34,7 @@ Members
 
 ## Acknowledgement
 
-<p>This activity is supported by the National Science Foundation CAREER award NSF-CAREER-2205677, the National Science Foundation OAC award NSF-OAC-2212256 and the National Science Foundation SPX award NSF-SPX-2202859.</p>
+<p>This work is supported by the National Science Foundation (NSF-CAREER-2205677, NSF-SPX-2202859, NSF-OAC-2212256).</p>
 
 [[Slides](https://drive.google.com/file/d/1DV-_Qms75S9ZPZv8bcPJ9gGfwYWESp6a/view?usp=sharing)]
 [[Gallery](https://drive.google.com/drive/folders/1uefC-yOGTurvYMrYkEM5rtqecMoLY5eD?usp=sharing)]
