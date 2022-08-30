@@ -1,7 +1,18 @@
 - type: main
+  conf: ICS\'22
+  title: "Towards Low-Latency I/O Services for Mixed Workloads Using Ultra-Low Latency SSDs"
+  link: https://people.cs.vt.edu/~litinghu/doc/fastresponse.pdf
+  author: Mingzhe Liu, Haikun Liu, Chencheng Ye, Xiaofei Liao, Hai Jin, Yu Zhang, Ran Zheng, **Liting Hu**
+  conf_name: Proceedings of the 36th ACM International Conference on Supercomputing
+  conf_short: ICS
+  conf_date: June 2022.
+  rate: 0
+  location: virtual event,
+
+- type: main
   conf: USENIX ATC\'21
   title: "DART: A Scalable and Adaptive Edge Stream Processing Engine"
-  link: 
+  link: https://people.cs.vt.edu/~litinghu/doc/dart.pdf
   author: Pinchao Liu\*, Dilma Da Silva, **Liting Hu**
   conf_name: Proceedings of the 2021 USENIX Annual Technical Conference
   conf_short: USENIX ATC
@@ -184,6 +195,17 @@
   conf_date: September 2008.
   rate: 0
   location: Tsukuba, Japan,
+
+- type: j
+  conf: IEEE Access
+  title: "XUnified: A Framework for Guiding Optimal Use of GPU Unified Memory"
+  link: https://people.cs.vt.edu/~litinghu/doc/xunified.pdf
+  author: Hailu Xu, Pei-Hung Lin, Murali Emani, **Liting Hu** ,Chunhua Liao
+  conf_name: in IEEE Access (IEEE Access), vol. 10, pp. 82614-82625, 
+  conf_short: IEEE Access
+  conf_date: July 2022.
+  rate: 0
+  location:
 
 - type: j
   conf: TPDS
