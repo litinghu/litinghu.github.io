@@ -33,6 +33,7 @@ Members
 
 ## Publications
 
+- <b>[IEEE Access]</b> Hailu Xu, Pei-Hung Lin, Murali Emani, **Liting Hu**, Chunhua Liao, \"[XUnified: A Framework for Guiding Optimal Use of GPU Unified Memory]()\", in <em>IEEE Access (IEEE Access), vol. 10, pp. 82614-82625 </em>, July 2022.
 - <b>[USENIX ATC\'21]</b> Pinchao Liu\*, Dilma Da Silva, **Liting Hu**, \"[DART: A Scalable and Adaptive Edge Stream Processing Engine]()\", in <em>Proceedings of the 2021 USENIX Annual Technical Conference (USENIX ATC\'21)</em>, virtual event, July 2021. Acceptance Rate: 64/341 = 18.8%.
 - <b>[Middleware\'20]</b> Hailu Xu*, Pinchao Liu*, Susana Cruz-Diaz*, Dilma Da Silva, **Liting Hu**, \"[SR3: Customizable Recovery for Stateful Stream Processing Systems](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf)\", in <em>Proceedings of ACM/IFIP Middleware 2020 (Middleware\'20)</em>, virtual event, December 2020.
 - <b>[IPDPS\'20]</b> Pinchao Liu\*, Hailu Xu\*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, **Liting Hu**, \"[FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications](https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf)\", in <em>Proceedings of the 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS\'20)</em>, virtual event, May 2020.
