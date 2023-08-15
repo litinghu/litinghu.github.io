@@ -41,18 +41,19 @@ permalink: /
   </a>
 </div>
 
-Our lab conducts <span style="color:#DC143C">**experimental computer systems research**</span> in the areas of <span style="color:#DC143C">**stream processing systems**</span>, <span style="color:#DC143C">**cloud and edge computing**</span>, <span style="color:#DC143C">**distributed systems**</span>, <span style="color:#DC143C">**machine learning systems**</span>, and <span style="color:#DC143C">**operating systems virtualization**</span>. Examples include stream processing systems (with Spark Streaming, Storm, Flink), identifying threats (e.g., fake news, rumors, social bots) in online social networks, developing machine learning techniques for systems, container as a service (with Docker and Kubernetes), and resource management in large-scale data centers (with Xen and KVM).
+Our lab conducts <span style="color:#DC143C">**experimental computer systems research**</span> in the areas of <span style="color:#DC143C">**stream processing systems**</span>, <span style="color:#DC143C">**cloud and edge computing**</span>, <span style="color:#DC143C">**distributed systems**</span>, <span style="color:#DC143C">**machine learning systems**</span>, and <span style="color:#DC143C">**systems virtualization**</span>. Examples include stream processing systems (with Spark Streaming, Storm, Flink), identifying threats (e.g., fake news, rumors, social bots) in online social networks, developing machine learning techniques for systems, container as a service (with Docker and Kubernetes), and resource management in large-scale data centers (with Xen and KVM).
 
-Our lab aims to train students towards becoming first-class system researchers and system builders. **We are looking for passionate new Ph.D. students, Postdocs, and master students to join the team!** [See openings](https://people.cs.vt.edu/~litinghu/).
+Our lab aims to train students towards becoming first-class system researchers and system builders. **We are looking for passionate new Ph.D. students, Postdocs, and master students to join the team!** [See openings](https://people.ucsc.edu/~lhu82/).
 
 We are grateful to the following federal agencies and Institutes for supporting our research efforts.
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsc.jpg" style="width: 150px; margin-left: 20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vt.jpeg" style="width: 110px; margin-left: 20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 120px; margin-left: 25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.svg" style="width: 107px; margin-left: 30px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/meta.png" style="width: 140px; margin-left: 5px"><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.svg" style="width: 105px; margin-left: 30px"><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/meta.png" style="width: 140px; margin-left: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cf.png" style="width: 120px; margin-left: 20px; margin-top: 30px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lyrasis.png" style="width: 102px; margin-left: 25px; margin-top: 25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lyrasis.png" style="width: 120px; margin-left: 25px; margin-top: 25px">
 
 </figure>
