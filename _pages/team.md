@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for passionate new Ph.D. students, Postdocs, and master students to join the team!** [See openings](https://people.cs.vt.edu/~litinghu/).
+ **We are looking for passionate new Ph.D. students, Postdocs, and master students to join the team!** [See openings](https://people.ucsc.edu/~lhu82/).
 
 ## Faculty
 {% assign number_printed = 0 %}
