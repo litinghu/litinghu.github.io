@@ -7,17 +7,17 @@ permalink: /join/
 
 # Open positions
 
-Our lab aims to train students towards becoming first-class system researchers and system builders. If you enjoy building systems, I would love to have you join the lab. [See openings](https://people.cs.vt.edu/~litinghu/). <br /><br />
+Our lab aims to train students towards becoming first-class system researchers and system builders. If you enjoy building systems, I would love to have you join the lab. [See openings](https://people.ucsc.edu/~lhu82/). <br /><br />
 **We are always looking for new group members with passion, talent, and grit!** 
 
 ### Applications for Ph.D. and Postdoc positions
 
 If you are interested in working with us as a Ph.D. student or postdoc, please feel free to contact me. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. Important: please insert \"PhD Application – Your Name\" or \"Postdoc Application – Your Name\" in the subject line. If you are applying to a specific advertisement, note this in your email.
 
-### Master projects for Virginia Tech students
+### Master projects for UC Santa Cruz students
 
-If you are a Master student at Virginia Tech looking for a Master project, contact me (or any group member) per email or stop by my office.
+If you are a Master student at UC Santa Cruz looking for a Master project, contact me (or any group member) per email or stop by my office.
 <br />
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_winter.jpeg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ucsc5.jpg" width="60%" >
 </figure>
