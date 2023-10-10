@@ -18,7 +18,7 @@ permalink: /research_edge/
 
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigator
-- [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
+- [Dr. Liting Hu](https://people.ucsc.edu/~lhu82/), Assistant Professor, UC Santa Cruz and Virginia Tech
 
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
 Members
@@ -50,4 +50,4 @@ USXNIX ATC’21 <br />
 
 ## Acknowledgement
 
-<p>This material is based upon work supported by the National Science Foundation CAREER award NSF-CAREER-1943071.</p>
+<p>This material is based upon work supported by the National Science Foundation CAREER award NSF-CAREER-23313737.</p>

@@ -16,7 +16,7 @@ The broad success of online social networks (OSNs) has created fertile soil for 
 
 Principal Investigator
 
-- [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
+- [Dr. Liting Hu](https://people.ucsc.edu/~lhu82/), Assistant Professor, UC Santa Cruz and Virginia Tech
 
 Members
 

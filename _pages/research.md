@@ -8,11 +8,11 @@ permalink: /research/
 
 # Research Interests
 
-- <span>**Stream Processing Systems:**</span> [SR3](https://people.cs.vt.edu/~litinghu/doc/sr3.pdf), [FP4S](https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf), [Governor](https://people.cs.vt.edu/~litinghu/doc/governor.pdf), [ELF](https://people.cs.vt.edu/~litinghu/doc/elf.pdf), [Project Hoover](https://people.cs.vt.edu/~litinghu/doc/projecthoover.pdf)
-- <span>**Spam Detection in Online Social Networks:**</span> [SpamHunter](https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf), [Oases](https://people.cs.vt.edu/~litinghu/doc/oases.pdf)
-- <span>**Developing Machine Learning Techniques for Systems:**</span> [Max Orientation Coverage](https://people.cs.vt.edu/~litinghu/doc/iros.pdf), [dpSmart](https://people.cs.vt.edu/~litinghu/doc/dpSmart.pdf), [XPlacer](https://people.cs.vt.edu/~litinghu/doc/mchpc.pdf)
-- <span>**Container as a Service in the Cloud:**</span> [Docman](https://people.cs.vt.edu/~litinghu/doc/Docman.pdf)
-- <span>**Resource Management in Large-Scale Data Centers:**</span> [RBay](https://people.cs.vt.edu/~litinghu/doc/rbay.pdf), [v-Bundle](https://people.cs.vt.edu/~litinghu/doc/vbundle.pdf), [Net-Cohort](https://people.cs.vt.edu/~litinghu/doc/netcohort.pdf), [Look Who’s Talking](https://people.cs.vt.edu/~litinghu/doc/look.pdf), [Monalytics](https://people.cs.vt.edu/~litinghu/doc/monalytics.pdf), [Live Migration of VMs](https://people.cs.vt.edu/~litinghu/doc/livemigration.pdf), [Magnet](https://people.cs.vt.edu/~litinghu/doc/magnet.pdf)
+- <span>**Stream Processing Systems:**</span> [SR3](https://people.ucsc.edu/~lhu82/Biobibnet/20Middleware_SR3.pdf), [FP4S](https://people.ucsc.edu/~lhu82/Biobibnet/20IPDPS_FP4S.pdf), [Governor](https://people.ucsc.edu/~lhu82/Biobibnet/17ICAC_Governor.pdf), [ELF](https://people.ucsc.edu/~lhu82/Biobibnet/14ATC_ELF.pdf), [Project Hoover](https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/12MBDS_ProjectHoover.pdf)
+- <span>**Spam Detection in Online Social Networks:**</span> [SpamHunter](https://people.ucsc.edu/~lhu82/Biobibnet/19Cloud_Exploiting.pdf), [Oases](https://people.ucsc.edu/~lhu82/Biobibnet/18Cloud_Oases.pdf)
+- <span>**Developing Machine Learning Techniques for Systems:**</span> [Max Orientation Coverage](https://people.ucsc.edu/~lhu82/Biobibnet/20IROS_3D.pdf), [dpSmart](https://people.ucsc.edu/~lhu82/Biobibnet/19BigData_dpSmart.pdf), [XPlacer](https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/19MCHPC_GPU.pdf)
+- <span>**Container as a Service in the Cloud:**</span> [Docman](https://people.ucsc.edu/~lhu82/Biobibnet/18Cloud_DocMan.pdf)
+- <span>**Resource Management in Large-Scale Data Centers:**</span> [RBay](https://people.ucsc.edu/~lhu82/Biobibnet/17ICDCS_Rbay.pdf), [v-Bundle](https://people.ucsc.edu/~lhu82/Biobibnet/12ICDCS_vBundle.pdf), [Net-Cohort](https://people.ucsc.edu/~lhu82/Biobibnet/12ICAC_NetCohort.pdf), [Look Who’s Talking](https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/10HotCloud_LookWho'sTalking.pdf), [Monalytics](https://people.ucsc.edu/~lhu82/Biobibnet/11ICAC_Monalytics.pdf), [Live Migration of VMs](https://people.ucsc.edu/~lhu82/Biobibnet/09HPDC_Livemigration.pdf), [Magnet](https://people.ucsc.edu/~lhu82/Biobibnet/08Cluster_Magnet.pdf)
 
 <h1 id="research-projects" style="
     margin-bottom: 22px;
@@ -30,10 +30,12 @@ permalink: /research/
 
 <div class="col-sm-12 clearfix">
  <div class="well"  style="height: {{publi.wellheight}}px; margin-bottom: 40px;">
-  <pubtit><a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a></pubtit>
+  <pubtit><a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.permalink }}" target="_blank">{{ publi.title }}</a></pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="31%" style="float: left; margin-right: 30px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 3%;" height="1100" />
-  <p>{{ publi.description }} <a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></p>
+  <p>{{ publi.description }} <a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.permalink }}" target="_blank">{{ publi.link.display }}</a></p>
+  {% if publi.authors %}
   <p><b>Selected Publications: </b>{{ publi.authors }}</p>
+  {% endif %}
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>

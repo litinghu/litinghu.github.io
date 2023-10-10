@@ -19,7 +19,7 @@ permalink: /research_ng4s/
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigators
 
-- [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
+- [Dr. Liting Hu](https://people.ucsc.edu/~lhu82/), Assistant Professor, UC Santa Cruz and Virginia Tech
 - [Dr. Dilma Da Silva](https://people.engr.tamu.edu/dilma/index.html), Professor, Texas A&M University
 
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
@@ -75,4 +75,4 @@ Stream Processing Tutorials
 
 ## Acknowledgement
 
-<p>This material is based upon work supported by the National Science Foundation under grants NSF-SPX-1919126 and NSF-SPX-1919181.</p>
+<p>This material is based upon work supported by the National Science Foundation under Grant NSF-SPX-2202859.</p>

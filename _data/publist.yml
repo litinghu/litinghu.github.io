@@ -1,10 +1,33 @@
+- title: "Core Scheduling Techniques and Programming Abstractions for Scalable Serverless Edge Computing Engine"
+  wellheight: 280
+  image: serverless_edge.png
+  description: The proliferation of 5G and beyond facilitates the advancement of next-generation technologies, including smart cities, self-driving cars, online video gaming, virtual reality, and augmented reality. This necessitates a re-evaluation of how these services are characterized and deployed. Serverless computing is an emerging paradigm, referring to a software architecture where an application is decomposed into triggers (also called events) and actions (also called functions), and there is a platform that provides seamless hosting and execution environment, making it easy to develop, manage, scale, and operate them. 
+  # authors: <a href="https://people.cs.vt.edu/~litinghu/doc/fastresponse.pdf">ICS\'22</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/dart.pdf">USENIX ATC\'21</a>
+  link:
+    permalink: /research_serverless_edge/
+    display:  Read More
+  highlight: 1
+  news2:
+
+- title: "A Scalable and Deployable Container Orchestration Cyber Infrastructure Toolkit for Deploying Big Data Analytics Applications in Public Cloud"
+  wellheight: 400
+  image: bigdata.png
+  description: Today many big data analytics applications (e.g., fraud detection, social data analytics, education, climate modeling, epidemiology, and finance) need to process enormous datasets from geographically distributed locations. An emerging trend is to host these big data analytics applications in the public cloud. They can be packaged to run in a lightweight isolated execution environment (containers) and deployed on computing resources rented from public cloud providers, which can be updated and scaled seamlessly. However, the complex inter-container correlations and the heterogeneity of hardware resources pose significant challenges in managing these big data analytics applications in the public cloud. This project enables the easy deployment of containerized big data analytics applications in the public cloud and provides cloud providers with insights to better tune their systems for current and future big data workloads.
+  # authors: <a href="https://people.cs.vt.edu/~litinghu/doc/fastresponse.pdf">ICS\'22</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/dart.pdf">USENIX ATC\'21</a>
+  link:
+    permalink: /research_bigdata/
+    display:  Read More
+  highlight: 1
+  news2:
+
+
 - title: "Scalable and Adaptive Edge Stream Processing"
-  wellheight: 310
+  wellheight: 320
   image: edge.png
   description: Internet-of-Things (IoT) applications such as self-driving cars, augmented reality, interactive gaming, and event monitoring have a tremendous potential to improve our lives. These applications generate a large influx of sensor data at massive scales. Under many time-critical scenarios, these massive data streams must be processed in a very short time to derive actionable intelligence. This CAREER project aims to support time-critical IoT applications by applying the stream processing paradigm to the Edge computing architecture in the dynamic, heterogeneous Edge environment. As an integral part of its research program, this CAREER project involves K-12, undergraduate and graduate level education in partnership with the local Public School system.
-  authors: <a href="https://people.cs.vt.edu/~litinghu/doc/fastresponse.pdf">ICS\'22</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/dart.pdf">USENIX ATC\'21</a>
+  authors: <a href="https://people.ucsc.edu/~lhu82/Biobibnet/22ICS_FastResponse.pdf">ICS\'22</a>, <a href="https://people.ucsc.edu/~lhu82/Biobibnet/21ATC_Dart.pdf">USENIX ATC\'21</a>
   link:
-    url: https://litinghu.github.io/research_edge/
+    permalink: /research_edge/
     display:  Read More
   highlight: 1
   news2:
@@ -13,9 +36,9 @@
   wellheight: 320
   image: ng4s.png
   description: Our society increasingly relies on applications that process streaming data across geo-distributed sites, such as making business decisions from marketing data, identifying spam campaigns in social network streams, and analyzing genome datasets in different labs and countries to track the sources of potential epidemics. Existing systems are mainly designed for stateless stream processing in intra-datacenter settings and do not scale well for running stream applications that contain large distributed states. This project breaks the traditional abstractions of a centralized architecture and hashtable-based stateless operators, redefining them with a new decentralized architecture and new memory-efficient stateful operators, which enables novel approaches to improve overall system performance and scalability. 
-  authors: <a href="https://people.cs.vt.edu/~litinghu/doc/xunified.pdf">IEEE Access</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/sr3.pdf">Middleware\'20</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf">IPDPS\'20</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/rbay.pdf">ICAC\'18</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/elf.pdf">USENIX ATC\'14</a>
+  authors: <a href="https://people.ucsc.edu/~lhu82/Biobibnet/Journal/22Access_XUnified.pdf">IEEE Access</a>, <a href="https://people.ucsc.edu/~lhu82/Biobibnet/20Middleware_SR3.pdf">Middleware\'20</a>, <a href="https://people.ucsc.edu/~lhu82/Biobibnet/20IPDPS_FP4S.pdf">IPDPS\'20</a>, <a href="https://people.ucsc.edu/~lhu82/Biobibnet/17ICDCS_Rbay.pdf">ICAC\'18</a>, <a href="https://people.ucsc.edu/~lhu82/Biobibnet/14ATC_ELF.pdf">USENIX ATC\'14</a>
   link:
-    url: https://litinghu.github.io/research_ng4s/
+    permalink: /research_ng4s/
     display: Read More
   highlight: 1
 
@@ -23,8 +46,8 @@
   wellheight: 250
   image: rumor1.png
   description: The broad success of online social networks (OSNs) has created fertile soil for the emergence and fast spread of rumors. Rumors are damaging as they cause public panic and social unrest. There is an urgent need to quickly detect false rumors (e.g., fake news) circulated on social online networks early in its propagation before it reaches a broad audience. The goal of this project is to develop a next-generation online scalable streaming system for early rumor detection in OSNs.
-  authors: <a href="https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf">Cloud\'19 Best student paper</a>, <a href="https://people.cs.vt.edu/~litinghu/doc/oases.pdf">Cloud\'18</a>
+  authors: <a href="https://people.ucsc.edu/~lhu82/Biobibnet/19Cloud_Exploiting.pdf">Cloud\'19 Best student paper</a>, <a href="https://people.ucsc.edu/~lhu82/Biobibnet/18Cloud_Oases.pdf">Cloud\'18</a>
   link:
-    url: https://litinghu.github.io/research_rumorhunt/
+    permalink: /research_rumorhunt/
     display:  Read More
   highlight: 1
