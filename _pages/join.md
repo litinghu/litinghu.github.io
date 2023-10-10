@@ -19,5 +19,6 @@ If you are interested in working with us as a Ph.D. student or postdoc, please f
 If you are a Master student at UC Santa Cruz looking for a Master project, contact me (or any group member) per email or stop by my office.
 <br />
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ucsc5.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/banana_slug.png" width="80%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_winter.jpeg" width="80%" >
 </figure>
