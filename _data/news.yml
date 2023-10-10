@@ -1,16 +1,38 @@
 
+- date: "August 2023:"
+  headline: "Dr. Liting Hu is thrilled to announce that a Lead PI grant is awarded from <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322919'>NSF CNS</a> to support her research on serverless edge computing systems ($600K). <b>Thank you NSF!</b>"
+
+- date: "January 2023:"
+  headline: "Dr. Liting Hu serves as the PC committee at <a href='https://nschiele.github.io/ICS2023/'>ICS 2023</a>. Please consider submitting your work."
+
+- date: "December 2022:"
+  headline: "Dr. Liting Hu serves as the PC committee at <a href='https://www.usenix.org/conference/atc23'>USENIX ATC 2023</a>. Please consider submitting your work."
+
+- date: "June 2022:"
+  headline: "Dr. Liting Hu is thrilled to announce that a Sole PI grant is awarded from <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212256'>NSF OAC</a> to support her research on container orchestration systems ($320K). <b>Thank you NSF!</b>"
+
+- date: "April 2022:"
+  headline: "Our work on ultra-low latency SSDs got accepted to ICS 2022!"
+
+
 - date: "December 2021:"
-  headline: "Dr. Liting Hu is grateful to receive the Meta (Facebook) Faculty Research Award."
+  headline: "Dr. Liting Hu is grateful to receive the <a href='https://research.facebook.com/blog/2021/12/announcing-the-winners-of-the-mathematical-modeling-and-optimization-for-large-scale-distributed-systems-request-for-proposals/'>Meta Faculty Research Award</a> as Sole PI. <b>Thank you Meta!</b>"
+
+- date: "December 2021:"
+  headline: "Dr. Liting Hu serves as the PC committee at <a href='https://conf.researchr.org/home/vee-2022'>VEE 2022</a> and <a href='https://ics2022.github.io/'>ICS 2022</a>. Please consider submitting your work."
 
 
 - date: "April 2021:"
-  headline: "<b>Our work on edge stream processing systems got accepted to USENIX ATC 2021!</b>"
+  headline: "Our work on edge stream processing systems got accepted to USENIX ATC 2021!"
 
 - date: "April 2021:"
-  headline: "Our lab's Ph.D. student Pinchao Liu graduates and will join Facebook as a research scientist. Congratulations, Pinchao!"
+  headline: "Our lab's Ph.D. student Pinchao Liu graduates and will join Facebook as a research scientist. <b>Congratulations, Pinchao!</b>"
 
 - date: "December 2020:"
   headline: "Dr. Liting Hu is grateful to receive the FIU Faculty Award for Excellence in Fundamental Research."
+
+- date: "November 2020:"
+  headline: "Dr. Liting Hu serves as the Program Vice Co-Chair for the Distributed Operating Systems and Middleware track in <a href='https://icdcs2021.us/'>ICDCS 2021</a>. Please consider submitting your work."
 
 - date: "September 2020:"
   headline: "Our work on failure recovery mechanism for stream processing systems got accepted to ACM/IFIP Middleware 2020."
@@ -19,28 +41,37 @@
   headline: "Our research on stream processing systems is featured on <a href='https://news.fiu.edu/2020/computing-professor-designs-stream-processing-system-for-iot-applications'>FIU News</a>."
 
 - date: "June 2020:"
-  headline: "<b>Dr. Liting Hu is grateful to receive the NSF CAREER Award from the Computer Systems Research program in the Division of Computer and Network Systems! Thanks for NSF’s tremendous support!</b>"
+  headline: "Dr. Liting Hu is thrilled to announce that she receives the NSF CAREER Award from the Computer Systems Research program in the Division of Computer and Network Systems! <b>Thanks for NSF’s tremendous support!</b>"
 
 - date: "April 2020:"
-  headline: "Our lab's Ph.D. student Hailu Xu graduates and joins California State University Long Beach as a tenure-track assistant professor. Congratulations, Hailu!"
+  headline: "Our lab's Ph.D. student Hailu Xu graduates and joins California State University Long Beach as a tenure-track assistant professor. <b>Congratulations, Hailu!</b>"
 
 - date: "February 2020:"
-  headline: "I am grateful to receive the <a href='https://cyberflorida.org/programs/seed/'>Cyber Florida Collaborative Seed Award</a>."
+  headline: "Dr. Liting Hu is grateful to receive the <a href='https://cyberflorida.org/programs/seed/'>Cyber Florida Collaborative Seed Award</a>."
+
+- date: "February 2020:"
+  headline: "Dr. Liting Hu serves as the PC committee at <a href='https://www.usenix.org/conference/hotedge20'>HotEdge 2020</a>. Please consider submitting your work."
 
 - date: "December 2019:"
   headline: "Our work on stateful stream processing systems got accepted to <a href='http://www.ipdps.org/ipdps2020/2020-call-for-papers.html'>IPDPS 2020</a>."
 
 - date: "July 2019:"
-  headline: "<b>A lead-PI grant is awarded from <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919126&HistoricalAwards=false'>NSF SPX</a> to support our research on stateful stream processing ($550K). Thank you NSF!</b>"
+  headline: "Dr. Liting Hu is thrilled to announce that a Lead PI grant is awarded from <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202859'>NSF SPX</a> to support her research on stateful stream processing systems ($550K). <b>Thank you NSF!</b>"
 
 - date: "June 2019:"
   headline: "A co-PI grant is awarded from LYRASIS to support my research on AI ($25K)."
 
 - date: "May 2019:"
-  headline: "Our work on spam detection systems received the <a href='http://icws.org/2019/awards.html'>Best Student Paper Award</a> at Cloud 2019. Congratulations, Hailu!"
+  headline: "Our work on spam detection systems received the <a href='http://icws.org/2019/awards.html'>Best Student Paper Award</a> at Cloud 2019. <b>Congratulations, Hailu!</b>"
+
+- date: "January 2019:"
+  headline: "Dr. Liting Hu serves as the PC committee at <a href='https://www.usenix.org/conference/atc19'>USENIX ATC 2019<a>. Please consider submitting your work."
+
+- date: "October 2018:"
+  headline: "Dr. Liting Hu serves as the PC committee at <a href='https://www.ipdps.org/ipdps2019/2019-call-for-papers.html'>IPDPS 2019<a>. Please consider submitting your work."
 
 - date: "April 2018:"
-  headline: "We have two research papers accepted to Cloud 2018. Congratulations, Hailu and Pinchao!"
+  headline: "We have two research papers accepted to Cloud 2018."
 
 - date: "August 2017:"
   headline: "A co-PI grant is awarded from DHS ($1200K)."
