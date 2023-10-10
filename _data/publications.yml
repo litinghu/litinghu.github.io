@@ -1,7 +1,29 @@
+# - type: main
+#   conf: EuroSys\'24
+#   title: "Totoro: A Scalable Federated Learning Engine for the Edge"
+#   link: 
+#   author: Cheng-Wei Ching\*, Xin Chen, Taehwan Kim\*, Bo Ji, Qingyang Wang, Dilma Da Silva, and **Liting Hu**
+#   conf_name: Proceedings of the 19th ACM SIGOPS European Conference on Computer Systems
+#   conf_short: EuroSys\'24
+#   conf_date: April 2024.
+#   rate: 0
+#   location: Athens, Greece,
+
+- type: main
+  conf: Middleware\'23
+  title: "Sora: A Latency Sensitive Approach for Microservice Soft Resource Adaption"
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/23Middleware_Sora.pdf
+  author: Jianshu Liu, Qingyang Wang, Shungeng Zhang, **Liting Hu**, Dilma Da Silva
+  conf_name: Proceedings of ACM/IFIP Middleware 2023
+  conf_short: Middleware
+  conf_date: December 2023.
+  rate: 0
+  location: Bologna, Italy,
+
 - type: main
   conf: ICS\'22
   title: "Towards Low-Latency I/O Services for Mixed Workloads Using Ultra-Low Latency SSDs"
-  link: https://people.cs.vt.edu/~litinghu/doc/fastresponse.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/22ICS_FastResponse.pdf
   author: Mingzhe Liu, Haikun Liu, Chencheng Ye, Xiaofei Liao, Hai Jin, Yu Zhang, Ran Zheng, **Liting Hu**
   conf_name: Proceedings of the 36th ACM International Conference on Supercomputing
   conf_short: ICS
@@ -12,7 +34,7 @@
 - type: main
   conf: USENIX ATC\'21
   title: "DART: A Scalable and Adaptive Edge Stream Processing Engine"
-  link: https://people.cs.vt.edu/~litinghu/doc/dart.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/21ATC_Dart.pdf
   author: Pinchao Liu\*, Dilma Da Silva, **Liting Hu**
   conf_name: Proceedings of the 2021 USENIX Annual Technical Conference
   conf_short: USENIX ATC
@@ -23,7 +45,7 @@
 - type: main
   conf: IROS\'20
   title: "Max Orientation Coverage: Efficient Path Planning to Avoid Collisions in the CNC Milling of 3D Objects"
-  link: https://people.cs.vt.edu/~litinghu/doc/iros.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/20IROS_3D.pdf
   author: Xin Chen, Thomas M. Tucker, Thomas R. Kurfess, Richard W. Vuduc, **Liting Hu**
   conf_name: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
   conf_short: IROS
@@ -34,7 +56,7 @@
 - type: main
   conf: Middleware\'20
   title: "SR3: Customizable Recovery for Stateful Stream Processing Systems"
-  link: https://people.cs.vt.edu/~litinghu/doc/sr3.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/20Middleware_SR3.pdf
   author: Hailu Xu\*, Pinchao Liu\*, Susana Cruz-Diaz\*, Dilma Da Silva, **Liting Hu**
   conf_name: Proceedings of ACM/IFIP Middleware 2020
   conf_short: Middleware
@@ -45,7 +67,7 @@
 - type: main
   conf: IPDPS\'20
   title: "FP4S: Fragment-based Parallel State Recovery for Stateful Stream Applications"
-  link: https://people.cs.vt.edu/~litinghu/doc/fp4s.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/20IPDPS_FP4S.pdf
   author: Pinchao Liu\*, Hailu Xu\*, Dilma Da Silva, Qingyang Wang, Sarker Tanzir Ahmed, **Liting Hu**
   conf_name: Proceedings of the 34th IEEE International Parallel & Distributed Processing Symposium
   conf_short: IPDPS
@@ -56,7 +78,7 @@
 - type: main
   conf: Big Data Congress\'19
   title: "dpSmart: A Flexible Group Based Recommendation Framework for Digital Repository Systems"
-  link: https://people.cs.vt.edu/~litinghu/doc/dpSmart.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/19BigData_dpSmart.pdf
   author: Boyuan Guan\*, Pinchao Liu\*, Hailu Xu\*, Jennifer Fu, Qingyang Wang, **Liting Hu**
   conf_name: Proceedings of the 2019 International Congress on Big Data
   conf_short: Big Data Congress
@@ -67,7 +89,7 @@
 - type: main
   conf: Cloud\'19
   title: "Exploiting the Spam Correlations in Scalable Online Social Spam Detection" 
-  link: https://people.cs.vt.edu/~litinghu/doc/spamhunter.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/19Cloud_Exploiting.pdf
   author: Hailu Xu\*, Pinchao Liu\*, Boyuan Guan\*, **Liting Hu**
   conf_name: Proceedings of the 2019 International Conference on Cloud Computing
   conf_short: Cloud
@@ -76,9 +98,20 @@
   location: San Diego, CA,
 
 - type: main
+  conf: IDCIS\'19
+  title: "Towards Adaptive Replication for Hot/Cold Blocks in HDFS using MemCached" 
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/19ICDIS_MemCached.pdf
+  author: Pinchao Liu\*, Adnan Maruf, Farzana Beente Yusuf, Labiba Jahan, Hailu Xu\*, Boyuan Guan\*, **Liting Hu**
+  conf_name: 2019 2nd International Conference on Data Intelligence and Security
+  conf_short: ICDIS
+  conf_date: June 2019.
+  rate: 0
+  location: South Padre Island, TX,
+
+- type: main
   conf: Cloud\'18
-  title: “A Toolset for Detecting Containerized Application's Dependencies in CaaS Clouds"
-  link: https://people.cs.vt.edu/~litinghu/doc/docman.pdf
+  title: "A Toolset for Detecting Containerized Application's Dependencies in CaaS Clouds"
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/18Cloud_DocMan.pdf
   author: Pinchao Liu\*, Hailu Xu\*, Zhiyuan Shi\*, Jason Liu, Qingyang Wang, Jai Dayal, Yuzhe Tang, **Liting Hu**
   conf_name: Proceedings of the 11th International Conference on Cloud Computing
   conf_short: Cloud
@@ -89,7 +122,7 @@
 - type: main
   conf: Cloud\'18
   title: "Oases: An Online Scalable Spam Detection System for Social Networks"
-  link: https://people.cs.vt.edu/~litinghu/doc/oases.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/18Cloud_Oases.pdf
   author: Hailu Xu\*, Pinchao Liu\*, Yao Xiao, Wentao Wang, Jai Dayal, Qingyang Wang, Yuzhe Tang, **Liting Hu**
   conf_name: Proceedings of the 11th International Conference on Cloud Computing
   conf_short: Cloud
@@ -100,7 +133,7 @@
 - type: main
   conf: ICAC\'17
   title: "GOVERNOR: Smoother Stream Processing Through Smarter Backpressure"
-  link: https://people.cs.vt.edu/~litinghu/doc/governor.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/17ICAC_Governor.pdf
   author: Xin Chen, Ymir Vigfusson, Douglas M. Blough, Fang Zheng, Kun-Lung Wu, **Liting Hu**
   conf_name: Proceedings of the 14th IEEE International Conference on Autonomic Computing
   conf_short: ICAC
@@ -111,7 +144,7 @@
 - type: main
   conf: Cloud\'17
   title: "Breaking Down Hadoop Distributed File Systems Data Analytics Tools: Apache Hive vs. Apache Pig vs. Pivotal HWAQ"
-  link: https://people.cs.vt.edu/~litinghu/doc/breakingdown.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/17Cloud_Breaking.pdf
   author: Xin Chen\*, Liangqi Liu\*, Jing Chang\*, Diana Leante Bone*, **Liting Hu**
   conf_name: Proceedings of the 10th IEEE International Conference on Cloud Computing
   conf_short: Cloud
@@ -122,7 +155,7 @@
 - type: main
   conf: ICDCS\'17
   title: "RBAY: A Scalable and Extensible Information Plane for Federating Distributed Datacenter Resources"
-  link: https://people.cs.vt.edu/~litinghu/doc/rbay.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/17ICDCS_Rbay.pdf
   author: Xin Chen\*, **Liting Hu**, Douglas M. Blough, Michael A. Kozuch, Matthew Wolf
   conf_name: Proceedings of the 37nd IEEE International Conference on Distributed Computing Systems
   conf_short: ICDCS
@@ -133,7 +166,7 @@
 - type: main
   conf: USENIX ATC\'14
   title: "ELF: Efficient Lightweight Fast Stream Processing at Scale"
-  link: https://people.cs.vt.edu/~litinghu/doc/elf.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/14ATC_ELF.pdf
   author: "**Liting Hu**, Karsten Schwan, Hrishikesh Amur, Xin Chen"
   conf_name: Proceedings of the 2014 USENIX Annual Technical Conference
   conf_short: USENIX ATC
@@ -144,7 +177,7 @@
 - type: main
   conf: ICAC\'12
   title: "Net-Cohort: Detecting and Managing VM Ensembles in Data Center Systems"
-  link: https://people.cs.vt.edu/~litinghu/doc/netcohort.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/12ICAC_NetCohort.pdf
   author: "**Liting Hu**, Karsten Schwan, Ajay Gulati, Junjie Zhang, Chengwei Wang"
   conf_name: Proceedings of the 9th ACM International Conference on Autonomic Computing
   conf_short: ICAC
@@ -155,7 +188,7 @@
 - type: main
   conf: ICDCS\'12
   title: "v-Bundle: Flexible Group Resource Offerings in Clouds"
-  link: https://people.cs.vt.edu/~litinghu/doc/vbundle.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/12ICDCS_vBundle.pdf
   author: "**Liting Hu**, Kyung Dong Ryu, Dilma Da Silva, Karsten Schwan"
   conf_name: Proceedings of the 32nd IEEE International Conference on Distributed Computing Systems
   conf_short: ICDCS
@@ -166,7 +199,7 @@
 - type: main
   conf: ICAC\'11
   title: "A Flexible Architecture Integrating Monitoring and Analytics for Managing Large-Scale Data Centers"
-  link: https://people.cs.vt.edu/~litinghu/doc/monalytics.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/11ICAC_Monalytics.pdf
   author: "Chengwei Wang, Karsten Schwan, Vanish Talwar, Greg Eisenhauer, **Liting Hu**, Matthew Wolf"
   conf_name: Proceedings of the 8th ACM International Conference on Autonomic Computing
   conf_short: ICAC
@@ -177,7 +210,7 @@
 - type: main
   conf: HPDC\'09
   title: "Live Migration of Virtual Machine Based on Execution Trace and Deterministic Replay"
-  link: https://people.cs.vt.edu/~litinghu/doc/livemigration.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/09HPDC_Livemigration.pdf
   author: "Haikun Liu, Hai Jin, Xiaofei Liao, **Liting Hu**, Chen Yu"
   conf_name: Proceedings of the 18th International ACM Symposium on High-Performance Parallel and Distributed Computing
   conf_short: HPDC
@@ -188,7 +221,7 @@
 - type: main
   conf: Cluster\'08
   title: "Magnet: A Novel Scheduling Policy for Power Reduction in Cluster with Virtual Machines"
-  link: https://people.cs.vt.edu/~litinghu/doc/magnet.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/08Cluster_Magnet.pdf
   author: "**Liting Hu**, Hai Jin, Xiaofei Liao, Xianjie Xiong, Haikun Liu"
   conf_name: Proceedings of the 2008 IEEE International Conference on Cluster Computing
   conf_short: Cluster
@@ -197,9 +230,31 @@
   location: Tsukuba, Japan,
 
 - type: j
+  conf: TPDS
+  title: "Adaptive Fragment-based Parallel State Recovery for Stream Processing Systems"
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/23TPDS_AFP4S.pdf
+  author: Hailu Xu\*, Pinchao Liu\*, Sarker Tanzir Ahmed, Dilma Da Silva, **Liting Hu**
+  conf_name: IEEE Transactions on Parallel and Distributed Systems, vol. 34, no. 8, pp. 2464-2478,
+  conf_short: IEEE TPDS
+  conf_date: August 2023.
+  rate: 0
+  location:
+
+- type: j
+  conf: IEEE Access
+  title: "Online and Scalable Information Integrity by Harnessing Social Spam Correlations"
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/23Access_SpamCorrelations.pdf
+  author: Hailu Xu\*, Pinchao Liu\*, Boyuan Guan\*, Qingyang Wang, Dilma Da Silva, **Liting Hu**
+  conf_name: IEEE Access, vol. 11, pp. 7768-7781,
+  conf_short: IEEE Access
+  conf_date: January 2023.
+  rate: 0
+  location:
+
+- type: j
   conf: IEEE Access
   title: "XUnified: A Framework for Guiding Optimal Use of GPU Unified Memory"
-  link: https://people.cs.vt.edu/~litinghu/doc/xunified.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/22Access_XUnified.pdf
   author: Hailu Xu, Pei-Hung Lin, Murali Emani, **Liting Hu** ,Chunhua Liao
   conf_name: IEEE Access (IEEE Access), vol. 10, pp. 82614-82625, 
   conf_short: IEEE Access
@@ -210,7 +265,7 @@
 - type: j
   conf: TPDS
   title: "The Impact of Event Processing Flow on Asynchronous Server Efficiency"
-  link: https://people.cs.vt.edu/~litinghu/doc/qingyang2020.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/20TPDS_Qingyang.pdf
   author: Shungeng Zhang, Qingyang Wang, Yasuhiko Kanemasa, Huasong Shan, **Liting Hu**
   conf_name: IEEE Transactions on Parallel and Distributed Systems
   conf_short: IEEE TPDS
@@ -221,7 +276,7 @@
 - type: j
   conf: ETSS
   title: "Privacy-Preserving Multi-Party Directory Services"
-  link: https://people.cs.vt.edu/~litinghu/doc/yuzhe2019.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/19ETSS_Yuzhe.pdf
   author: Yuzhe Tang, Kai Li, Katchaguy Areekijseree, Shuigeng Zhou, **Liting Hu**
   conf_name: EAI Endorsed Transactions on Security and Safety
   conf_short: ETSS
@@ -232,7 +287,7 @@
 - type: j
   conf: TPDS
   title: "Integrating Concurrency Control in n-Tier Application Scaling Management in the Cloud"
-  link: https://people.cs.vt.edu/~litinghu/doc/qingyang2019.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/19TPDS_Qingyang.pdf
   author: Qingyang Wang, Hui Chen, Shungeng Zhang, **Liting Hu**, Balaji Palanisamy
   conf_name: IEEE Transactions on Parallel and Distributed Systems
   conf_short: IEEE TPDS
@@ -243,7 +298,7 @@
 - type: j
   conf: SIGOPS
   title: "Performance Troubleshooting in Data Centers: An Annotated Bibliography"
-  link: https://people.cs.vt.edu/~litinghu/doc/performance_troubleshooting.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/13SIGOPS_Survey.pdf
   author: Chengwei Wang, Soila P. Kavulya, Jiaqi Tan, **Liting Hu**, Mahendra Kutare, Mike Kasick, Karsten Schwan, Priya Narasimhan, Rajeev Gandhi
   conf_name: ACM SIGOPS Operating Systems Review
   conf_short: SIGOPS
@@ -254,7 +309,7 @@
 - type: j
   conf: Cluster Computing
   title: "Energy Optimization Schemes in Cluster with Virtual Machines"
-  link: https://people.cs.vt.edu/~litinghu/doc/energy_optimization.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/10ClusterComputing_EnergyOptimization.pdf
   author: Xiaofei Liao, **Liting Hu**, Hai Jin
   conf_name: Cluster Computing
   conf_short: Cluster Computing
@@ -265,7 +320,7 @@
 - type: j
   conf: "Concurrency&Computation"
   title: "Towards Virtualized Desktop Environment"
-  link: https://people.cs.vt.edu/~litinghu/doc/towards.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/10Concurrency_Towards.pdf
   author: Xiaofei Liao, Hai Jin, **Liting Hu**, Haikun Liu
   conf_name: "IEEE Concurrency and Computation: Practice and Experience"
   conf_short: "Concurrency&Computation"
@@ -274,9 +329,20 @@
   location:
 
 - type: w
+  conf: ECAI\'23
+  title: An IoT-Edge Orchestrated Online Deep Compressed Sensing Framework
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/23ICDCSW_OrcoDCS.pdf
+  author: Cheng-Wei Ching\*, Chirag Gupta\*, Zi Huang\*, **Liting Hu**
+  conf_name: 2023 IEEE 43rd International Conference on Distributed Computing Systems Workshop (ICDCSW) on Edge-to-Cloud AI Orchestration
+  conf_short: ECAI\'23
+  conf_date: July 2023.
+  rate: 0
+  location: Hong Kong, China,
+
+- type: w
   conf: MCHPC\'19
   title: Machine Learning Guided Optimal Use of GPU Unified Memory
-  link: https://people.cs.vt.edu/~litinghu/doc/mchpc.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/19MCHPC_GPU.pdf
   author: Hailu Xu\*, Murali Emani, Pei-Hung Lin, **Liting Hu**, Chunhua Liao
   conf_name: Proceedings of the Workshop on Memory Centric High Performance Computing, in conjunction with SC 19
   conf_short: MCHPC
@@ -287,7 +353,7 @@
 - type: w
   conf: BSMDMA\'18
   title: "Harnessing the Nature of Spam in Scalable Online Social Spam Detection"
-  link: https://people.cs.vt.edu/~litinghu/doc/sifter.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/18BSMDMA_Sifter.pdf
   author: Hailu Xu\*, Boyuan Guan\*, Pinchao Liu\*, William Escudero*, **Liting Hu**
   conf_name: the 2018 International Workshop on Big Social Media Data Management and Analysis, in conjunction with IEEE Big Data
   conf_short: BSMDMA
@@ -298,7 +364,7 @@
 - type: w
   conf: MBDS\'12
   title: "Project Hoover: Auto-Scaling Streaming Map-Reduce Applications"
-  link: https://people.cs.vt.edu/~litinghu/doc/projecthoover.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/12MBDS_ProjectHoover.pdf
   author: "Rajalakshmi Ramesh, **Liting Hu**, Karsten Schwan"
   conf_name: Proceedings of the 2nd Workshop on Management of Big Data Systems, in conjunction with ACM ICAC’12
   conf_short: MBDS
@@ -309,7 +375,7 @@
 - type: w
   conf: HotCloud\'10
   title: "Look Who’s Talking: Discovering Dependencies between Virtual Machines Using CPU Utilization"
-  link: https://people.cs.vt.edu/~litinghu/doc/look.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/10HotCloud_LookWho'sTalking.pdf
   author: Renuka Apte, **Liting Hu**, Arpan Ghosh, Karsten Schwan
   conf_name: Proceedings of the 2nd USENIX Workshop on Hot Topics in Cloud Computing
   conf_short: HotCloud
@@ -320,7 +386,7 @@
 - type: w
   conf: SVM\'08
   title: "LVD: A Lightweight Virtual Desktop Management Architecture"
-  link: https://people.cs.vt.edu/~litinghu/doc/lvd.pdf
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/08SVM_VirtualDesktop.pdf
   author: Xiaofei Liao, Xianjie Xiong, Hai Jin, **Liting Hu**
   conf_name: International Workshop on Systems and Virtualization Management, Springer
   conf_short: SVM
