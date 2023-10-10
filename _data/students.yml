@@ -11,26 +11,11 @@
 - name: Cheng-Wei Ching (Summer 2022 - )
   photo: wei.jpg
   info: https://sites.google.com/view/cheng-wei-ching
-  email:
+  email: cching1@ucsc.edu
   number_educ: 3
   education1: "Ph.D. Student in Computer Science, UC Santa Cruz (Advisor: Liting Hu)"
   education2: "M.S. in Computer Science and Information Engineering, National Chung Cheng University (Advisor: Jian-Jhih Kuo)"
   education3: B.A. in Spanish, Tamkang University
-
-- name: Yan Tong (Summer 2023 - )
-  photo: yan.jpg
-  email: ytong24@ucsc.edu
-  number_educ: 3
-  education1: "Ph.D. Student in Computer Science, UC Santa Cruz (Advisor: Liting Hu)"
-  education2: "M.S. in Computer Science, Boston University"
-  education3: B.E. in Internet of Things Engineering, University of Electronic Science and Technology of China
-
-- name: Yinyuan Zhao (Summer 2023 - )
-  photo: yinyuan.jpg
-  email: 
-  number_educ: 2
-  education1: "Ph.D. Student in Computer Science, UC Santa Cruz (Advisor: Liting Hu)"
-  education2: "B.S. in Software Engineering, South China University of Technology (Advisor: Xiaohang Wang)"
 
 - name: Boyuan Guan (Ph.D. 2022)
   photo: BoyuanGuan.png
