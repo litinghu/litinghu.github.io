@@ -1,7 +1,7 @@
 ---
-title: "Elves Lab - ceed3"
+title: "ElvesLab - ceed3"
 layout: textlay
-excerpt: "Elves Lab -- ceed3"
+excerpt: "ElvesLab -- ceed3"
 sitemap: false
 permalink: /ceed3/
 ---
@@ -16,11 +16,11 @@ permalink: /ceed3/
 <p>The larger project focuses on combining an RGB LED and an IR sender/receiver to create a remote control LED system. The students then dive into creating their own LED blinking patterns in code, thus programming their LEDs! </p>
 
 
-## Organizer (Elves Lab teamed up with VT's CEED)
+## Organizer (ElvesLab teamed up with VT's CEED)
 
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigator
-- [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
+- [Dr. Liting Hu](https://people.ucsc.edu/~lhu82/), Assistant Professor, UC Santa Cruz and Virginia Tech
 
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
 Members
@@ -32,7 +32,7 @@ Members
 
 ## Acknowledgement
 
-<p>This work is supported by the National Science Foundation (NSF-CAREER-2205677, NSF-SPX-2202859, NSF-OAC-2212256).</p>
+<p>This work is supported by the National Science Foundation (NSF-CNS-2322919, NSF-OAC-23313738, NSF-CAREER-23313737, NSF-SPX-2202859).</p>
 
 [[Slides](https://drive.google.com/file/d/1mfL5tqGhLLyTTh-AtMYbi-I4nDbmtq1W/view?usp=sharing)]
 [[Gallery](https://drive.google.com/drive/folders/1TJS7UoIgjKbNI8eVH0rXKOKkp-4eSO5M?usp=sharing)]

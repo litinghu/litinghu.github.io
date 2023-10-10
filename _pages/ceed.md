@@ -1,7 +1,7 @@
 ---
-title: "Elves Lab - ceed"
+title: "ElvesLab - ceed"
 layout: textlay
-excerpt: "Elves Lab -- ceed"
+excerpt: "ElvesLab -- ceed"
 sitemap: false
 permalink: /ceed/
 ---
@@ -18,11 +18,11 @@ capable of detecting motion and lighting up a light! After each student complete
 ered, and a PIR motion sensor used to detect motion. By the end of this two-hour workshop, students will have a deep understanding of PIR motion sensing and C/C++
 programming, how PIR motion sensing is used in everyday life, and how they can use PIR motion sensing in the future Arduino projects!</p>
 
-## Organizer(Elves Lab teamed up with VT’s CEED)
+## Organizer(ElvesLab teamed up with VT’s CEED)
 
 <!-- <h3 style="text-indent: 0.5em">Principal Investigator</h3> -->
 Principal Investigator
-- [Dr. Liting Hu](https://people.cs.vt.edu/~litinghu/), Assistant Professor, Virginia Tech
+- [Dr. Liting Hu](https://people.ucsc.edu/~lhu82/), Assistant Professor, UC Santa Cruz and Virginia Tech
 
 <!-- <h3 style="text-indent: 0.5em">Members</h3> -->
 Members
@@ -34,7 +34,7 @@ Members
 
 ## Acknowledgement
 
-<p>This work is supported by the National Science Foundation (NSF-CAREER-2205677, NSF-SPX-2202859, NSF-OAC-2212256).</p>
+<p>This work is supported by the National Science Foundation (NSF-CNS-2322919, NSF-OAC-23313738, NSF-CAREER-23313737, NSF-SPX-2202859).</p>
 
 [[Slides](https://drive.google.com/file/d/1DV-_Qms75S9ZPZv8bcPJ9gGfwYWESp6a/view?usp=sharing)]
 [[Gallery](https://drive.google.com/drive/folders/1uefC-yOGTurvYMrYkEM5rtqecMoLY5eD?usp=sharing)]
