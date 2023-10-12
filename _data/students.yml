@@ -8,6 +8,15 @@
 #  education3:
 #  education4:
 
+- name: Chaeeun Kim (Fall 2023 - )
+  photo: Chaeeun.png
+  info: 
+  email: ckim151@ucsc.com
+  number_educ: 3
+  education1: "Ph.D. Student in Computer Science, UC Santa Cruz (Advisor: Liting Hu and Chen Qian)"
+  education2: "M.S. in Computer Science, Kookmin University (Advisor: Ha-Myung Park)"
+  education3: B.S. in Computer Science, Kookmin University
+
 - name: Cheng-Wei Ching (Summer 2022 - )
   photo: wei.jpg
   info: https://sites.google.com/view/cheng-wei-ching
