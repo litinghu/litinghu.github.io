@@ -1,3 +1,12 @@
+# - name: Tongze Wang (Fall 2022- Spring 2024)
+#   photo: junyi_yu.png
+#   info: 
+#   email:
+#   number_educ: 3
+#   education1: 
+#   education2: "M.S in Computer Science and Engineering, UCSC (Advisor: Liting Hu)"
+#   education3: 
+
 - name: Junyi Yu (Fall 2021 - Spring 2023)
   photo: junyi_yu.png
   info: 
@@ -7,21 +16,20 @@
   education2: "M.S in Computer Science and Engineering, UCSC (Advisor: Liting Hu)"
   education3: B.S in Software Engineering, ShanDong University
 
+- name: Manoj Prabhakar Paidiparthy (Fall 2021 - Spring 2023)
+  photo: manoj.jpg
+  info:
+  email:
+  number_educ: 3
+  education1: "Now Software Engineer at Microsoft"
+  education2: "M.S. in Computer Science, Virginia Tech (Advisor: Liting Hu)"
+  education3: B.E Hons in Electrical and Electronics Engineering, Birla Institute of Technology and Science
+
 - name: Taehwan Kim (Fall 2021 - Spring 2022)
   photo: kim.jpg
   info:
   email:
-  number_educ: 2
-  education1: "M.S. candidate in Computer Science, Virginia Tech (Advisor: Liting Hu)"
-  education2: B.S. in Computer Science, Bucknell University
-
-- name: Manoj Prabhakar Paidiparthy (Fall 2021 - )
-  photo: manoj.jpg
-  info:
-  email:
-  number_educ: 2
-  education1: "M.S. candidate in Computer Science, Virginia Tech (Advisor: Liting Hu)"
-  education2: B.E Hons in Electrical and Electronics Engineering, Birla Institute of Technology and Science
-  
-
-
+  number_educ: 3
+  education1: "Now Software Engineer at Google"
+  education2: "M.S. in Computer Science, Virginia Tech (Advisor: Liting Hu)"
+  education3: "B.S. in Computer Science, Bucknell University"
