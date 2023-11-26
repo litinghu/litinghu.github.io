@@ -1,13 +1,13 @@
-# - type: main
-#   conf: EuroSys\'24
-#   title: "Totoro: A Scalable Federated Learning Engine for the Edge"
-#   link: 
-#   author: Cheng-Wei Ching\*, Xin Chen, Taehwan Kim\*, Bo Ji, Qingyang Wang, Dilma Da Silva, and **Liting Hu**
-#   conf_name: Proceedings of the 19th ACM SIGOPS European Conference on Computer Systems
-#   conf_short: EuroSys\'24
-#   conf_date: April 2024.
-#   rate: 0
-#   location: Athens, Greece,
+- type: main
+  conf: EuroSys\'24
+  title: "Totoro: A Scalable Federated Learning Engine for the Edge"
+  link: 
+  author: Cheng-Wei Ching\*, Xin Chen, Taehwan Kim\*, Bo Ji, Qingyang Wang, Dilma Da Silva, and **Liting Hu**
+  conf_name: Proceedings of the 19th ACM SIGOPS European Conference on Computer Systems
+  conf_short: EuroSys\'24
+  conf_date: April 2024.
+  rate: 0
+  location: Athens, Greece,
 
 - type: main
   conf: Middleware\'23
