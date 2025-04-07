@@ -1,7 +1,7 @@
 ---
 title: "Elves Lab - Home"
 layout: homelay
-excerpt: "ElvesLab at Virginia Tech"
+excerpt: "ElvesLab at UC Santa Cruz"
 sitemap: false
 permalink: /
 ---
