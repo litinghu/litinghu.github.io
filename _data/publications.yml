@@ -1,12 +1,34 @@
 - type: main
+  conf: Middleware'25
+  title: "Capybara: an Edge-Friendly Distributed Object Store for Diverse Serverless Functions"
+  link: 
+  author: Xin Chen, Manoj Prabhakar Paidiparthy\*, Chen Qian, **Liting Hu**
+  conf_name: Proceedings of the 26th ACM/IFIP International Middleware Conference
+  conf_short: Middleware'25
+  conf_date: December 2025.
+  rate: 0
+  location: Nashville, TN,
+
+- type: main
+  conf: IPDPS'25
+  title: "Ekko: Fully Decentralized Scheduling for Serverless Edge Computing"
+  link: 
+  author: Xin Chen, Manoj Prabhakar Paidiparthy\*, Dilma Da Silva, **Liting Hu**
+  conf_name: Proceedings of the 39th IEEE International Parallel & Distributed Processing Symposium
+  conf_short: IPDPS\'25
+  conf_date: June 2025.
+  rate: 0
+  location: Milan, Italy,
+
+- type: main
   conf: EuroSys\'24
   title: "Totoro: A Scalable Federated Learning Engine for the Edge"
-  link: 
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/24Eurosys_Totoro.pdf
   author: Cheng-Wei Ching\*, Xin Chen, Taehwan Kim\*, Bo Ji, Qingyang Wang, Dilma Da Silva, and **Liting Hu**
   conf_name: Proceedings of the 19th ACM SIGOPS European Conference on Computer Systems
   conf_short: EuroSys\'24
   conf_date: April 2024.
-  rate: 0
+  rate: 39/244 = 16.0%
   location: Athens, Greece,
 
 - type: main
@@ -230,6 +252,17 @@
   location: Tsukuba, Japan,
 
 - type: j
+  conf: TMC
+  title: "AgileDART: An Agile and Scalable Edge Stream Processing Engine"
+  link: 
+  author: Cheng-Wei Ching\*, Xin Chen, Chaeeun Kim\*, Tongze Wang\*, Dong Chen, Dilma Da Silva, **Liting Hu**
+  conf_name: IEEE Transactions on Mobile Computing,
+  conf_short: IEEE TMC
+  conf_date: 2025.
+  rate: 0
+  location:
+
+- type: j
   conf: TPDS
   title: "Adaptive Fragment-based Parallel State Recovery for Stream Processing Systems"
   link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/23TPDS_AFP4S.pdf
@@ -327,6 +360,39 @@
   conf_date: Volumn 22 Issue 4, March 2010, Pages 419-440.
   rate: 0
   location:
+
+- type: w
+  conf: ICNP'24
+  title: "Poster: Distributed Learned Hash Table"
+  link: 
+  author: Shengze Wang, Yi Liu, Xiaoxue Zhang, **Liting Hu**, Chen Qian
+  conf_name: Proceedings of the 32nd IEEE International Conference on Network Protocols
+  conf_short: ICNP'24
+  conf_date: October 2024.
+  rate: 0
+  location: Charleroi, Belgium,
+
+- type: w
+  conf: APSys'24
+  title: Toward an Edge-Friendly Distributed Object Store for Serverless Functions
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/24APSys_Capybara.pdf
+  author: Xin Chen, Manoj Prabhakar Paidiparthy\*, and **Liting Hu**
+  conf_name: Proceedings of the 15th ACM SIGOPS Asia-Pacific Workshop on Systems
+  conf_short: APSys'24
+  conf_date: September 2024.
+  rate: 0
+  location: Kyoto, Japan,
+
+- type: w
+  conf: CCEAI'24
+  title: "Decaffe: DHT Tree-Based Online Federated Fake News Detection"
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/24ICDPR_Decaffe.pdf
+  author: Cheng-Wei Ching\*, **Liting Hu**
+  conf_name: conjunction with 2024 8th International Conference on Control Engineering and Artificial Intelligence
+  conf_short: CCEAI'24
+  conf_date: January 2024.
+  rate: 0
+  location: Shanghai, China,
 
 - type: w
   conf: ECAI\'23

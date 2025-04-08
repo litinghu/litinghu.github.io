@@ -7,7 +7,7 @@ permalink: /join/
 
 # Open positions
 
-Our lab aims to train students towards becoming first-class system researchers and system builders. If you enjoy building systems, I would love to have you join the lab. [See openings](https://people.ucsc.edu/~lhu82/). <br /><br />
+Our lab aims to train students towards becoming first-class system researchers and system builders. If you enjoy building systems, Dr. Liting Hu would love to have you join the lab. [See openings](https://people.ucsc.edu/~lhu82/). <br /><br />
 **We are always looking for new group members with passion, talent, and grit!** 
 
 ### Applications for Ph.D. and Postdoc positions
@@ -16,9 +16,9 @@ If you are interested in working with us as a Ph.D. student or postdoc, please f
 
 ### Master projects for UC Santa Cruz students
 
-If you are a Master student at UC Santa Cruz looking for a Master project, contact me (or any group member) per email or stop by my office.
+If you are a Master student at UC Santa Cruz looking for a Master project, contact Dr. Liting Hu (or any group member) by email or stop by Dr. Liting Hu's office.
 <br />
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/banana_slug.png" width="80%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vt_winter.jpeg" width="80%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ucsc3.jpg" width="80%" >
 </figure>
