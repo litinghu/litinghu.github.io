@@ -1,16 +1,16 @@
 - type: main
-  conf: Middleware'25
+  conf: Middleware\'25
   title: "Capybara: an Edge-Friendly Distributed Object Store for Diverse Serverless Functions"
   link: 
   author: Xin Chen, Manoj Prabhakar Paidiparthy\*, Chen Qian, **Liting Hu**
   conf_name: Proceedings of the 26th ACM/IFIP International Middleware Conference
-  conf_short: Middleware'25
+  conf_short: Middleware\'25
   conf_date: December 2025.
   rate: 0
   location: Nashville, TN,
 
 - type: main
-  conf: IPDPS'25
+  conf: IPDPS\'25
   title: "Ekko: Fully Decentralized Scheduling for Serverless Edge Computing"
   link: 
   author: Xin Chen, Manoj Prabhakar Paidiparthy\*, Dilma Da Silva, **Liting Hu**
@@ -362,34 +362,34 @@
   location:
 
 - type: w
-  conf: ICNP'24
+  conf: ICNP\'24
   title: "Poster: Distributed Learned Hash Table"
   link: 
   author: Shengze Wang, Yi Liu, Xiaoxue Zhang, **Liting Hu**, Chen Qian
   conf_name: Proceedings of the 32nd IEEE International Conference on Network Protocols
-  conf_short: ICNP'24
+  conf_short: ICNP\'24
   conf_date: October 2024.
   rate: 0
   location: Charleroi, Belgium,
 
 - type: w
-  conf: APSys'24
+  conf: APSys\'24
   title: Toward an Edge-Friendly Distributed Object Store for Serverless Functions
   link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/24APSys_Capybara.pdf
   author: Xin Chen, Manoj Prabhakar Paidiparthy\*, and **Liting Hu**
   conf_name: Proceedings of the 15th ACM SIGOPS Asia-Pacific Workshop on Systems
-  conf_short: APSys'24
+  conf_short: APSys\'24
   conf_date: September 2024.
   rate: 0
   location: Kyoto, Japan,
 
 - type: w
-  conf: CCEAI'24
+  conf: CCEAI\'24
   title: "Decaffe: DHT Tree-Based Online Federated Fake News Detection"
   link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/24ICDPR_Decaffe.pdf
   author: Cheng-Wei Ching\*, **Liting Hu**
   conf_name: conjunction with 2024 8th International Conference on Control Engineering and Artificial Intelligence
-  conf_short: CCEAI'24
+  conf_short: CCEAI\'24
   conf_date: January 2024.
   rate: 0
   location: Shanghai, China,
