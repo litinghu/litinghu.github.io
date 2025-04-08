@@ -41,7 +41,7 @@ permalink: /
   </a>
 </div>
 
-Our lab conducts <span style="color:#DC143C">**experimental computer systems research**</span> in the areas of <span style="color:#DC143C">**stream processing systems**</span>, <span style="color:#DC143C">**cloud and edge computing**</span>, <span style="color:#DC143C">**distributed systems**</span>, <span style="color:#DC143C">**machine learning systems**</span>, and <span style="color:#DC143C">**systems virtualization**</span>. Examples include stream processing systems (with Spark Streaming, Storm, Flink), identifying threats (e.g., fake news, rumors, social bots) in online social networks, developing machine learning techniques for systems, container as a service (with Docker and Kubernetes), and resource management in large-scale data centers (with Xen and KVM).
+Our lab conducts <span style="color:#DC143C">**Experimental Computer Systems research**</span> in the areas of <span style="color:#DC143C">**Stream Processing Systems**</span>, <span style="color:#DC143C">**Cloud and Edge Computing**</span>, <span style="color:#DC143C">**Distributed Systems**</span>, and <span style="color:#DC143C">**Systems Virtualization**</span>. Examples include stream processing systems (with Spark Streaming, Storm, Flink), identifying threats (e.g., fake news, rumors, social bots) in online social networks, federated learning systems, container as a service (with Docker and Kubernetes), and resource management in large-scale data centers (with Xen and KVM).
 
 Our lab aims to train students towards becoming first-class system researchers and system builders. **We are looking for passionate new Ph.D. students, Postdocs, and master students to join the team!** [See openings](https://people.ucsc.edu/~lhu82/).
 
