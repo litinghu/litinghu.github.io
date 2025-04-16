@@ -20,5 +20,4 @@ If you are a Master student at UC Santa Cruz looking for a Master project, conta
 <br />
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/banana_slug.png" width="80%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ucsc3.jpg" width="80%" >
 </figure>
