@@ -8,6 +8,14 @@
 #  education3:
 #  education4:
 
+- name: Rui Zhang (Fall 2024 - )
+  photo: ruizhang.jpg
+  info: 
+  email: rzhan229@ucsc.com
+  number_educ: 2
+  education1: "Ph.D. Student in Computer Science, UC Santa Cruz (Advisor: Liting Hu)"
+  education2: "B.S. in Computer Science and Technology, Huazhong University of Science and Technology (HUST)"
+
 - name: Chaeeun Kim (Fall 2023 - )
   photo: Chaeeun.png
   info: 
