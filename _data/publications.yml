@@ -1,7 +1,7 @@
 - type: main
   conf: Middleware\'25
   title: "Capybara: an Edge-Friendly Distributed Object Store for Diverse Serverless Functions"
-  link: 
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/25Middleware_Capybara.pdf
   author: Xin Chen, Manoj Prabhakar Paidiparthy\*, Chen Qian, **Liting Hu**
   conf_name: Proceedings of the 26th ACM/IFIP International Middleware Conference
   conf_short: Middleware\'25
@@ -12,7 +12,7 @@
 - type: main
   conf: IPDPS\'25
   title: "Ekko: Fully Decentralized Scheduling for Serverless Edge Computing"
-  link: 
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/25IPDPS_Ekko.pdf
   author: Xin Chen, Manoj Prabhakar Paidiparthy\*, Dilma Da Silva, **Liting Hu**
   conf_name: Proceedings of the 39th IEEE International Parallel & Distributed Processing Symposium
   conf_short: IPDPS\'25
@@ -254,7 +254,7 @@
 - type: j
   conf: TMC
   title: "AgileDART: An Agile and Scalable Edge Stream Processing Engine"
-  link: 
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Journal/25TMC_AgileDART.pdf
   author: Cheng-Wei Ching\*, Xin Chen, Chaeeun Kim\*, Tongze Wang\*, Dong Chen, Dilma Da Silva, **Liting Hu**
   conf_name: IEEE Transactions on Mobile Computing,
   conf_short: IEEE TMC
@@ -364,7 +364,7 @@
 - type: w
   conf: ICNP\'24
   title: "Poster: Distributed Learned Hash Table"
-  link: 
+  link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/24ICNP_Poster.pdf
   author: Shengze Wang, Yi Liu, Xiaoxue Zhang, **Liting Hu**, Chen Qian
   conf_name: Proceedings of the 32nd IEEE International Conference on Network Protocols
   conf_short: ICNP\'24
@@ -376,7 +376,7 @@
   conf: APSys\'24
   title: Toward an Edge-Friendly Distributed Object Store for Serverless Functions
   link: https://people.ucsc.edu/~lhu82/Biobibnet/Workshop/24APSys_Capybara.pdf
-  author: Xin Chen, Manoj Prabhakar Paidiparthy\*, and **Liting Hu**
+  author: Xin Chen, Manoj Prabhakar Paidiparthy\*, **Liting Hu**
   conf_name: Proceedings of the 15th ACM SIGOPS Asia-Pacific Workshop on Systems
   conf_short: APSys\'24
   conf_date: September 2024.

@@ -58,7 +58,7 @@ permalink: /team/
 </div>
 {% endfor %}
 
-## Postdocs / Specialists
+## Specialists
 {% for member in site.data.specialists %}
 
 <div class="row">
